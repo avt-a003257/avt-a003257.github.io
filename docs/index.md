@@ -1,3 +1,4 @@
 # Index
 
-[Video Audio Demystified](vdoAdoDemystified.md)
+.[Video Audio Demystified](vdoAdoDemystified.md)
+.[Help](_index.md)
