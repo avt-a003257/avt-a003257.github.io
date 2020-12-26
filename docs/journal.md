@@ -1,5 +1,29 @@
 # JOURNAL
 
+
+## 2020/12/26 (SA)
+
+
+http://ocw.nthu.edu.tw/videosite/index.php?op=watch&id=8244&filename=854_480_768.MP4&type=download&cid=252&chid=2772
+
+GA: Google Anaysltic
+
+* Notepad++ remove [Unwanted syntax Highlighting for Markdown](https://stackoverflow.com/questions/56722670/notepad-unwanted-syntax-highlighting-for-markdown): Remove Notepad++\userDefineLangs\
+* add wysiwyg [在Notepad++中使用Markdown](https://www.itread01.com/content/1543489339.html) [MarkdownViewerPlusPlus-0.8.2-x86.zip
+](https://github.com/nea/MarkdownViewerPlusPlus/releases/download/0.8.2/MarkdownViewerPlusPlus-0.8.2-x86.zip)
+
+1.http://www.lintcode.com/zh-cn/problem/
+
+有面試真題，階梯訓練，比賽等模組
+
+2.https://leetcode.com/
+
+很火的演算法題庫，線上答題，討論
+
+知乎搜尋演算法訓練網站，提供了很多網址，但是這兩個網站的演算法題用來入門比較好。共勉！
+
+高點、大碩
+
 ## 2020/12/25 (FR)
 
 
