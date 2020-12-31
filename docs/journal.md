@@ -1,5 +1,73 @@
 # JOURNAL
 
+## 2020/12/31 (TH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2020/12/30 (WE)
+
+
+
+
+
+重要提醒
+你不需要很厲害才能開始，但你需要開始才會很厲害
+我做我知道可以做的，上帝就會做我不知道、不能做的
+大量閱讀、時常寫作、隨手整理
+定時反省檢討
+---------------
+2021 Q1 
+
+Objective: USB/UVC/UAC
+Key Results:
+
+
+
+Objective: 讀資料結構FUNDAMENTALS OF DATA STRUCTURES IN C++第一章到第五章
+Key Results:
+整理筆記
+課本習題親手做一遍
+
+
+暖心書單/計畫細節
+Clear, Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones 克利爾 原子習慣：細微改變帶來巨大成就的實證法則
+
+
+---------------
+
+## 2020/12/30 (WE)
+
+
+commit bb4c1bc8d6cad47d0182392e58b83d51df0ec756 (HEAD -> er330_beta)
+Author: Joel Ding <joel.ding@avermedia.com>
+Date:   Wed Dec 30 16:21:37 2020 +0800
+
+    add autotest record.
+            new file:   mainrec.c
+
+    Change-Id: Ic4d0aea4ba4a6e6ed9606887a15c293fff7423c0
+
+
+
+## 2020/12/28 (MO)
+
+
+GraphStudioNext
+
+
+HDMIRX_AUDIO_STATE UVC_HDMI_ASTATE_ON
+
 
 ## 2020/12/26 (SA)
 
