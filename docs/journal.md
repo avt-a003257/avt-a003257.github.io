@@ -1,5 +1,35 @@
 # JOURNAL
 
+## 2021/01/08 (FI)
+
+## 2021/01/07 (TH)
+
+## 2021/01/06 (WE)
+
+1/002-程式規劃、撰寫、測試/板端廠測程式/BU113/-/4/裝置被占用
+1/002-程式規劃、撰寫、測試/板端廠測程式/BU113/-/2/ER330 add copy log, release document
+0/開會/1/部門會議
+0/開會/1/BU113 bug review
+
+syslogd -l 8 -D -s 2048 -b 3 -O /var/log/messages
+klogd -c 8
+
+入測試失敗原因的代碼、失敗備份LOG、加入失敗重測：錄影開始、讀取設定RTC、讀取MCU版本
+
+
+
+
+UVC_VIDEO_STATE g_uvc_video_state
+UVC_AUDIO_STATE g_uvc_audio_HDMI_state
+
+
+uvc_dynamic_chg_hdcp(uint8_t on)
+
+
+Clear AllEndPoint
+
+
+---------------------------------------------------------------------
 
 ## 2021/01/05 (TU)
 
