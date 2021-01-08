@@ -4,10 +4,10 @@
 
 ## 2021/01/08 (FI)
 
+3 Architectural Overview
+4 Enhanced SuperSpeed Data Flow Model
+9 Device Framework
 
-
-
----------------------------------------------------------------------
 
 ## 2021/01/07 (TH)
 
