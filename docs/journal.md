@@ -1,8 +1,108 @@
 # JOURNAL
 
+---------------------------------------------------------------------
+
 ## 2021/01/08 (FI)
 
+
+
+
+---------------------------------------------------------------------
+
 ## 2021/01/07 (TH)
+
+uvc_main_video_hdmi > fusb300_enable_ep_fifo_int
+uvc_main_audio_hdmi_in > fusb300_enable_ep_fifo_int
+
+3.1.1	Internal Direct Memory Access (IDMA) Controller
+used to perform fast-block transfers between any two memories local
+
+3.1.2	Enhanced Direct Memory Access (EDMA3) Controller
+the device/system DMA controller. Its primary purpose is to service user programmed data transfers between internal (DSP L1/L2, Shared RAM) and external (SDRAM, DDR2/mDDR, or flash memory) or memory-mapped peripherals (like serial ports, MMC/SD etc).
+
+
+[2021-01-06 20:03:57.369] --------------------------------------
+[2021-01-06 20:03:57.369] USB Info
+[2021-01-06 20:03:57.369] Format index = 1, Frame index = 1, Width = 1920, Height = 1080
+[2021-01-06 20:03:57.369] FrameInterval = 0x00030D40, Frame Rate = 50
+[2021-01-06 20:03:57.369] --------------------------------------
+
+--- fusb300_framework_ep0out / (setcur_VideoStreamInterface_commit == 1) ---
+[2021-01-06 20:03:57.369] disable EP3 INT
+[2021-01-06 20:03:57.369] Video State : -> Prepare MSG
+[2021-01-06 20:03:57.369] ------------------------------------------------------
+[2021-01-06 20:03:57.369] loadMSG : (BLACK_SCREEN)
+[2021-01-06 20:03:57.418] Warning MSG Mem = 0x03400000
+[2021-01-06 20:03:57.557] Load Warning MSG done
+
+--- fusb300_enable_ep_fifo_int() ---
+[2021-01-06 20:03:57.557] enable EP3 INT
+
+[2021-01-06 20:03:57.557] Video State : Prepare MSG->Check HDMI
+[2021-01-06 20:03:57.557] fusb300_ep0
+[2021-01-06 20:03:57.557]   clear_feature
+[2021-01-06 20:03:57.557] Clear Feature : U2_ENABLE
+[2021-01-06 20:03:57.557] fusb300_ep0
+[2021-01-06 20:03:57.557]   set_interface
+
+--- _fusb300_framework_set_interface() ---
+[2021-01-06 20:03:57.557] Audio HDMI State : ->Prepare Start
+
+--- fusb300_enable_ep_fifo_int() ---
+[2021-01-06 20:03:57.557] enable EP1 INT
+
+--- uvc_main_audio_hdmi_in() ---
+[2021-01-06 20:03:57.557] uvc_main_audio_hdmi_in uvc_iso_in_HDMI_Status=1,uvc_iso_out_DAC_Status=0
+[2021-01-06 20:03:57.557] Audio HDMI State : Prepare->Sync
+
+
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 33 33
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 33 36
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 31
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 31 36
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 35
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 37
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 36
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 31 34
+
+[2021-01-06 20:04:04.411] USB :	width = 1920, height = 1080
+[2021-01-06 20:04:04.411] Capture Input : YUV444DP
+[2021-01-06 20:04:04.411] Capture0->DDR->USB
+[2021-01-06 20:04:04.411] Output format : NV12
+[2021-01-06 20:04:04.411] frcMode CAPTURE_FRC_MODE_1
+[2021-01-06 20:04:04.411] Capture 0 Flow Control Enable
+[2021-01-06 20:04:04.411] ------------------------------------------------------
+[2021-01-06 20:04:04.411] Video State : Check HDMI->Update Video
+[2021-01-06 20:04:04.411] Video State : Update Video->Stable
+
+uvc_main_audio_hdmi_in > Clear_HDMI_RingBuffer
+[2021-01-06 20:04:04.411] Clear_HDMI_RingBuffer
+[2021-01-06 20:04:04.411] IT68051 SampleRate = 3
+[2021-01-06 20:04:04.411] Audio HDMI State : Sync->Stable
+
+
+typedef enum
+{
+	UVC_VIDEO_STATE_STANDBY,
+	UVC_VIDEO_STATE_PREPARE_MSG,		
+	UVC_VIDEO_STATE_CHECK_HDMI,		
+	UVC_VIDEO_STATE_UPDATE_VIDEO,			/* 3 */
+	UVC_VIDEO_STATE_STABLE
+} UVC_VIDEO_STATE;
+
+typedef enum
+{
+	UVC_AUDIO_STATE_STANDBY,
+	UVC_AUDIO_STATE_PREPARE_START,
+	UVC_AUDIO_STATE_PREPARE_STOP,
+	UVC_AUDIO_STATE_SYNC,			//HDMI Video + Audio, or ADC Audio /* 3 */
+	UVC_AUDIO_STATE_CHECK_HDMI,		//HDMI Audio
+	UVC_AUDIO_STATE_STABLE
+} UVC_AUDIO_STATE;
+
+portableapps: HDHacker, MBR and boot sector manager
+
+---------------------------------------------------------------------
 
 ## 2021/01/06 (WE)
 
