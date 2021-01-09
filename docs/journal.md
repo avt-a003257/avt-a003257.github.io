@@ -2,6 +2,241 @@
 
 ---------------------------------------------------------------------
 
+## 2021/01/09 (SA)
+
+HDR
+GC553
+ 87 1 1A 0 2 0 98 3A 30 75 4C 1D B8 B 0 7D 74 40 13 3D 42 40 0 0 0 0 FF 0 7F 0 0
+
+BU113
+ 87 1 1A 0 38 2 0 98 3A 30 75 4C 1D B8 B 0 7D 74 40 13 3D 42 40 0 0 0 0 FF 0 7F 0
+           --
+ 87 1 1A 0 2 0 98 3A 30 75 4C 1D B8 B 0 7D 74 40 13 3D 42 40 0 0 0 0 FF 0 7F 0 0
+ 
+ project/HDMI_Bridge/fusb300/usb_flash.c | 18 +++++++++++++----
+ project/libavt/avm_config.h             | 12 +++++++++++
+ project/libavt/avm_spi_flash.c          | 17 ++++++++++++++++
+ project/libavt/avm_spi_flash.h          |  9 ++++++---
+ project/libavt/avm_uvc_req.c            | 35 ++++++++++++++++++++++++++-------
+ project/libavt/avm_version.c            |  3 +++
+ 6 files changed, 80 insertions(+), 14 deletions(-)
+
+diff --git a/project/HDMI_Bridge/fusb300/usb_flash.c b/project/HDMI_Bridge/fusb300/usb_flash.c
+index ae832f5..91fa545 100644
+--- a/project/HDMI_Bridge/fusb300/usb_flash.c
++++ b/project/HDMI_Bridge/fusb300/usb_flash.c
+@@ -8,6 +8,7 @@
+ #include "../../bootloader/config.h"
+ #ifdef AVT_BU113
+ #include "avt_gpio.h"
++#include "avm_config.h"
+ #endif
+ 
+ 
+@@ -437,21 +438,30 @@ uint32_t PrepareCustomerAreaData()
+ 	g_fd = -1;
+ 
+ #ifdef AVT_BU113
+-/* debug
++#if 0 /* debug */
+ 	int cnt = 0;
+ 	for (int i = 0; i < 32; ++i)
+ 	{
+ 		printf("%02x ", *(uint8_t *)(DDRBuf_ptr + CFG_USB_DESCRIPTOR_OFFSET + CFG_USB_DESCRIPTOR_SN_OFFSET + i));
+ 		if (0 == ((++cnt) % 16)) printf("\n");
+ 	}
+-*/
++#endif
++	unsigned char buf[65536];
++//	memset(buf, 0xFF, SPI_FLASH_BLOCK_SZ);
++	avm_customer_usage_block_read(buf);
++
++	/* byte 13 */
++	g_avm_config.is_hdcp_handshake = buf[13] & 0x1;
++	printf("> %sable HDCP handshake\n", g_avm_config.is_hdcp_handshake ? "En" : "Dis");
++
++	/* byte 0..12 */
+ 	unsigned char serialnum[13] = {0};
+-	avm_usb_sn_get(serialnum, 13);
++	memcpy(serialnum, buf, 13);
+ 
+ 	for (int i = 0; i < 13; ++i)
+ 		if ((serialnum[i] < 0x30) || (serialnum[i] > 0x39)) return ret;
+ 
+-	printf("Serial Number: ");
++	printf("> Serial Number: ");
+ 	for (int i = 1; i < 14; ++i)
+ 	{
+ 		*(uint8_t *)(DDRBuf_ptr + CFG_USB_DESCRIPTOR_OFFSET + CFG_USB_DESCRIPTOR_SN_OFFSET + 2 * i) = serialnum[i - 1];
+diff --git a/project/libavt/avm_config.h b/project/libavt/avm_config.h
+new file mode 100644
+index 0000000..69f5fe3
+--- /dev/null
++++ b/project/libavt/avm_config.h
+@@ -0,0 +1,12 @@
++#ifndef _AVM_CONFIG_H_
++#define _AVM_CONFIG_H_
++
++typedef struct {
++    
++    unsigned char is_hdcp_handshake;
++
++} avm_config_t;
++
++extern avm_config_t g_avm_config;
++
++#endif /* _AVM_CONFIG_H_ */
+diff --git a/project/libavt/avm_spi_flash.c b/project/libavt/avm_spi_flash.c
+index 32d99ee..934db40 100644
+--- a/project/libavt/avm_spi_flash.c
++++ b/project/libavt/avm_spi_flash.c
+@@ -941,6 +941,23 @@ void avm_usb_sn_set(unsigned char* pdata,unsigned short size)
+ 	avm_customer_usage_block_write(buf);
+ }
+ 
++void avm_customer_usage_block_set_byte(unsigned char *pdata, unsigned offset, unsigned size)
++{
++	unsigned char buf[SPI_FLASH_BLOCK_SZ];
++
++	avm_customer_usage_block_read(buf);
++	memcpy(buf + offset, pdata, size);
++	avm_customer_usage_block_write(buf);
++
++#if 1 /* debug */
++	{
++		avm_customer_usage_block_read(buf);
++		for (int i = 0; i < 16; ++i) printf("%02x ", buf[i]);
++		printf("\n");
++	}
++#endif
++}
++
+ #if 0 /******* GC553 *******/
+ 
+ void avm_ap_version_read(unsigned char* pdata,unsigned short size)	//K18.8.A
+diff --git a/project/libavt/avm_spi_flash.h b/project/libavt/avm_spi_flash.h
+index 36f98e5..348bef0 100644
+--- a/project/libavt/avm_spi_flash.h
++++ b/project/libavt/avm_spi_flash.h
+@@ -157,15 +157,18 @@ typedef struct _AVM_FLASH_DEVINFO_OBJ
+ 
+ typedef struct _AVM_CUSTOMER_USAGE_BLOCK
+ {
+-	unsigned char sn[EXT_VERSION_SN_LEN];
+-	unsigned char reserved;
+-	unsigned char unused[SPI_FLASH_BLOCK_SZ - EXT_VERSION_SN_LEN - 1];
++	unsigned char sn[EXT_VERSION_SN_LEN];	/* byte 0..12: serial number
++											*/
++	unsigned char configs[8];	/* byte 13/bit 0: HDCP handshake. 0: disable, 1: enable. The rest of the bits are not used.
++								*/
++	unsigned char unused[SPI_FLASH_BLOCK_SZ - EXT_VERSION_SN_LEN - 8];
+ } __attribute__((packed)) AVM_CUSTOMER_USAGE_BLOCK, *AVM_CUSTOMER_USAGE_BLOCK_HANDLE;
+ 
+ void avm_gpio_init(void);
+ void avm_spi_init(void);
+ void avm_usb_sn_get(unsigned char* pdata,unsigned short size);
+ void avm_usb_sn_set(unsigned char* pdata,unsigned short size);
++void avm_customer_usage_block_set_byte(unsigned char *pdata, unsigned offset, unsigned size);
+ void avm_spi_read_write(unsigned char* buffer,unsigned int isRead);
+ void avm_spi_erase(unsigned char cmd, unsigned int addr);
+ void avm_ap_version_write(unsigned char* pdata,unsigned short size);
+diff --git a/project/libavt/avm_uvc_req.c b/project/libavt/avm_uvc_req.c
+index 6e8856b..c998f20 100644
+--- a/project/libavt/avm_uvc_req.c
++++ b/project/libavt/avm_uvc_req.c
+@@ -7,6 +7,7 @@
+ #include "iTE6805_DRV.h"
+ #include "gpio.h"
+ #include "avt_gpio.h"
++#include "avm_config.h"
+ 
+ #define AVM_UX_HDMI_PLUG_5V 0
+ #define AVM_UX_HDMI_READY 1
+@@ -66,7 +67,7 @@ void avm_ext_info_recv(unsigned char* pdata)
+ 		//avm_68051_rdwr(recv_info.factory_init,recv_info.rec_behavior[1],recv_info.rec_behavior[0]);
+ 		//addr = (unsigned short)(recv_info.rec_behavior[1]<<8)+recv_info.rec_behavior[0];
+ //		avm_nuc_hdcp_write(recv_info.hdcp);		//K12.6.A
+-		//CyU3PDebugPrint(4,"\n write hdcp?(%d)\r\n",recv_info.hdcp);
++		CyU3PDebugPrint(4,"write hdcp:%d\r\n",recv_info.hdcp);
+ 		
+ #if 0 /* set HDCP block in ITE 68051 to unreachable address 0x76 on DDC bus */
+ 		unsigned char regval = hdmirxrd(0xCB);
+@@ -81,15 +82,35 @@ void avm_ext_info_recv(unsigned char* pdata)
+ 		}
+ #else
+ 		unsigned char regval = hdmirxrd(0x23);
++		CyU3PDebugPrint(4,"read hdcp:%02x\r\n", regval);
+ 		unsigned char is_hdcp_in_reset = (regval & 0x2) >> 1;
+-		if (recv_info.hdcp) /* enable; out of reset */
++
++		if (recv_info.hdcp) /* enable HDCP handshake; out of reset */
+ 		{
+ 			if (is_hdcp_in_reset) hdmirxwr(0x23, regval & 0xFD);
++
++#if 0 /* write to flash */
++			if (!g_avm_config.is_hdcp_handshake)
++			{
++				g_avm_config.is_hdcp_handshake = 1;
++				avm_customer_usage_block_set_byte(&(g_avm_config.is_hdcp_handshake), 13, 1);
++			}
++#endif
+ 		}
+-		else /* disable; put to reset */
++		else /* disable HDCP handshake; put to reset */
+ 		{
+-			if (!is_hdcp_in_reset) hdmirxwr(0x23, regval | 0x2);
+-		}
++			if (!is_hdcp_in_reset) hdmirxwr(0x23, regval | 0x2);		
++			
++#if 0 /* write to flash */
++			if (g_avm_config.is_hdcp_handshake)
++			{
++				g_avm_config.is_hdcp_handshake = 0;
++				avm_customer_usage_block_set_byte(&(g_avm_config.is_hdcp_handshake), 13, 1);
++			}
++#endif
++		}		
++		
++		//CyU3PDebugPrint(4,"g_avm_config.is_hdcp_handshake:%d\n", g_avm_config.is_hdcp_handshake);
+ #endif
+ 	}
+ 	else if (trigger & (1<< UVC_EXT_INFO_FACTROY))	//set factory init
+@@ -256,11 +277,11 @@ void avm_ext_info_send(unsigned char* pdata)
+ 	if (is_addr_76) ext->send_info.hdcp = 0;
+ 	else ext->send_info.hdcp = 1;
+ #else
+-	unsigned char regval = hdmirxrd(0x23); /* 1: HDCP logic in reset; 0 otherwise */
++	unsigned char regval = hdmirxrd(0x23); /* [bit 1] 1: HDCP logic in reset; 0 otherwise */
++	CyU3PDebugPrint(4,"read hdcp:%02x\r\n", regval);
+ 	if (regval & 0x2) ext->send_info.hdcp = 0;
+ 	else ext->send_info.hdcp = 1;
+ #endif
+-	//CyU3PDebugPrint(4,"\n read hdcp?(%d)\r\n",ext->send_info.hdcp);
+ 
+ 	memcpy(pdata,&ext->send_info,sizeof(AVM_UVC_EXT_INFO_OBJ));
+ }
+diff --git a/project/libavt/avm_version.c b/project/libavt/avm_version.c
+index 672a6f6..d25cc91 100644
+--- a/project/libavt/avm_version.c
++++ b/project/libavt/avm_version.c
+@@ -1,4 +1,5 @@
+ #include "version.h"
++#include "avm_config.h"
+ 
+ const unsigned char g_package_version[]=
+ {
+@@ -16,3 +17,5 @@ const unsigned char *g_main_version[]=
+ 	BUILD_DATE,
+ 	BUILD_HOUR
+ };
++
++avm_config_t g_avm_config;
+ 
+
+ 
+ 
+---------------------------------------------------------------------
+
 ## 2021/01/08 (FI)
 
 
