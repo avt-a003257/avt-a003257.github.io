@@ -4,11 +4,29 @@
 
 ## 2021/01/08 (FI)
 
-3 Architectural Overview
-4 Enhanced SuperSpeed Data Flow Model
-9 Device Framework
 
 
+_fusb300_framework_clear_feature
+fusb300_set_cxstall
+
+[2021-01-07 18:11:43.994] fusb300_ep0
+[2021-01-07 18:11:44.009]   clear_feature
+[2021-01-07 18:11:44.009]   Cx request error!! 
+[2021-01-07 18:11:44.009] [avm_setup_is_done] val=1
+
+detach
+
+uvc.c Qoo
+_fusb300_set_vbus();
+
+GC553: Cypress FX3 Camera Kit header file (uvc.h)
+
+uvc_timer_to_pts
+	us = timer / 150;
+	pts = us * 100000;
+	
+	
+---------------------------------------------------------------------
 ## 2021/01/07 (TH)
 
 uvc_main_video_hdmi > fusb300_enable_ep_fifo_int
