@@ -10,4 +10,6 @@
 4 Enhanced SuperSpeed Data Flow Model
 9 Device Framework
 
+The USB Device Tree Viewer, short UsbTreeView is based upon the Microsoft "USBView" sample application found in the Windows Driver Development Kits and now standalone at GitHub. [download](https://www.uwe-sieber.de/usbtreeview_e.html)
 
+NRZI編碼，即訊號電平翻轉表示0，訊號電平不變表示1。
