@@ -1,6 +1,182 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 2021/01/14 (TH)
+
+Table 2-6 Extended Fields of the Payload Header 
+
+Presentation Time Stamp (PTS). 
+The source clock time in native device clock units when the raw frame capture 
+begins. This field may be repeated for 
+multiple payload transfers comprising a 
+single video frame, with the restriction 
+that the value shall remain the same 
+throughout that video frame. The PTS is 
+in the same units as specified in the 
+dwClockFrequency field of the Video 
+Probe Control response.
+
+
+
+static uint32_t uvc_timer_to_pts(uint32_t timer)
+{
+	uint32_t us;
+	uint32_t pts;
+	us = timer / 150;
+	pts = us * 100000;
+	return pts;
+}
+
+void uvc_bulk_in_hdmi(void)
+
+CX3 - Utilizing the UVC PTS (Presentation Time Stamp) field
+https://community.cypress.com/t5/USB-Superspeed-Peripherals/CX3-Utilizing-the-UVC-PTS-Presentation-Time-Stamp-field/td-p/139889
+
+https://community.cypress.com/t5/USB-Superspeed-Peripherals/CX3-timestamp/td-p/103127
+
+
+DE
+http://www.xwinman.org/
+
+Developing Microsoft Media Foundation Applications
+
+Understanding Open Source and Free Software Licensing: Guide to Navigating Licensing Issues in Existing & New Software 1st Edition, Kindle Edition
+by Andrew M. St. Laurent 
+
+Intellectual Property and Open Source: A Practical Guide to Protecting Code 1st Edition, Kindle Edition
+by Van Lindberg 
+
+How Open Source Ate Software: Understand the Open Source Movement and So Much More 1st ed. Edition, Kindle Edition
+by Gordon Haff
+
+Producing Open Source Software: How to Run a Successful Free Software Project Kindle Edition
+by Karl Fogel
+
+
+
+[2021-01-14 17:19:03.439] [avm_setup_is_done] val=0
+[2021-01-14 17:19:06.122] [avm_setup_is_done] val=1
+
+
+
+
+[2021-01-14 17:29:56.725] Qoo vic 5 16 Video State : Check HDMI->Update Video
+[2021-01-14 17:29:56.935] fusb300_vbus_change : FUSB300_OFFSET_GCR : 0x0
+[2021-01-14 17:29:56.935] [avm_setup_is_done] val=0
+...
+[2021-01-14 17:29:59.827] avm_ext_dev_state_send@385 1920x540,interlace,@fps:60
+[2021-01-14 17:29:59.903] fusb300_ep0
+[2021-01-14 17:29:59.903]   clear_feature
+[2021-01-14 17:29:59.903] Clear Feature : U2_ENABLE
+[2021-01-14 17:29:59.903] [avm_setup_is_done] val=1
+[2021-01-14 17:29:59.903] fusb300_ep0
+[2021-01-14 17:29:59.903]   set_interface
+[2021-01-14 17:29:59.903] Audio HDMI State : ->Prepare Start
+[2021-01-14 17:29:59.903] enable EP1 INT
+[2021-01-14 17:29:59.903] uvc_main_audio_hdmi_in uvc_iso_in_HDMI_Status=1,uvc_iso_out_DAC_Status=0
+[2021-01-14 17:29:59.903] Audio HDMI State : Prepare->Check HDMI
+[2021-01-14 17:29:59.952] ---------------------------------------
+[2021-01-14 17:29:59.952] GPIO2 = 0(2676)
+[2021-01-14 17:29:59.952] ---------------------------------------
+[2021-01-14 17:29:59.952] Audio HDMI State : Check HDMI->Stable
+
+
+[2021-01-14 17:19:02.942] Qoo vic 4 16 Video State : Check HDMI->Update Video
+[2021-01-14 17:19:03.439] fusb300_vbus_change : FUSB300_OFFSET_GCR : 0x0
+[2021-01-14 17:19:03.439] [avm_setup_is_done] val=0
+...
+[2021-01-14 17:19:05.809] avm_ext_dev_state_send@385 1280x720,progressive,@fps:60
+[2021-01-14 17:19:06.122] fusb300_ep0
+[2021-01-14 17:19:06.122]   clear_feature
+[2021-01-14 17:19:06.122] Clear Feature : U2_ENABLE
+[2021-01-14 17:19:06.122] [avm_setup_is_done] val=1
+[2021-01-14 17:19:06.122] fusb300_cmdend
+[2021-01-14 17:19:06.122] fusb300_ep0
+[2021-01-14 17:19:06.122]   set_interface
+[2021-01-14 17:19:06.122] Audio HDMI State : ->Prepare Start
+[2021-01-14 17:19:06.122] enable EP1 INT
+[2021-01-14 17:19:06.122] uvc_main_audio_hdmi_in uvc_iso_in_HDMI_Status=1,uvc_iso_out_DAC_Status=0
+[2021-01-14 17:19:06.122] Audio HDMI State : Prepare->Check HDMI
+[2021-01-14 17:19:06.171] ---------------------------------------
+[2021-01-14 17:19:06.171] GPIO2 = 0(2676)
+[2021-01-14 17:19:06.171] ---------------------------------------
+[2021-01-14 17:19:06.171] Audio HDMI State : Check HDMI->Stable
+
+[2021-01-14 17:20:28.493] Qoo vic 16 5 Video State : Check HDMI->Update Video
+[2021-01-14 17:20:28.648] fusb300_vbus_change : FUSB300_OFFSET_GCR : 0x0
+[2021-01-14 17:20:28.994] [avm_setup_is_done] val=0
+...
+[2021-01-14 17:20:31.311] avm_ext_dev_state_send@385 1920x1080,progressive,@fps:60
+[2021-01-14 17:20:31.678] fusb300_ep0
+[2021-01-14 17:20:31.678]   clear_feature
+[2021-01-14 17:20:31.678] Clear Feature : U2_ENABLE
+[2021-01-14 17:20:31.678] [avm_setup_is_done] val=1
+[2021-01-14 17:20:31.678] fusb300_ep0
+[2021-01-14 17:20:31.678]   set_interface
+[2021-01-14 17:20:31.678] Audio HDMI State : ->Prepare Start
+[2021-01-14 17:20:31.678] enable EP1 INT
+[2021-01-14 17:20:31.678] uvc_main_audio_hdmi_in uvc_iso_in_HDMI_Status=1,uvc_iso_out_DAC_Status=0
+[2021-01-14 17:20:31.678] Audio HDMI State : Prepare->Check HDMI
+[2021-01-14 17:20:31.726] ---------------------------------------
+[2021-01-14 17:20:31.726] GPIO2 = 0(2676)
+[2021-01-14 17:20:31.726] ---------------------------------------
+[2021-01-14 17:20:31.726] Audio HDMI State : Check HDMI->Stable
+
+[2021-01-14 17:19:43.745] Qoo vic 5 4 Video State : Check HDMI->Update Video
+[2021-01-14 17:19:43.956] fusb300_vbus_change : FUSB300_OFFSET_GCR : 0x0
+[2021-01-14 17:19:43.956] [avm_setup_is_done] val=0
+...
+[2021-01-14 17:19:46.809] avm_ext_dev_state_send@385 1920x540,interlace,@fps:60
+[2021-01-14 17:19:46.929] fusb300_ep0
+[2021-01-14 17:19:46.929]   clear_feature
+[2021-01-14 17:19:46.929] Clear Feature : U2_ENABLE
+[2021-01-14 17:19:46.929] [avm_setup_is_done] val=1
+[2021-01-14 17:19:46.929] fusb300_ep0
+[2021-01-14 17:19:46.929]   set_interface
+[2021-01-14 17:19:46.929] Audio HDMI State : ->Prepare Start
+[2021-01-14 17:19:46.929] enable EP1 INT
+[2021-01-14 17:19:46.929] uvc_main_audio_hdmi_in uvc_iso_in_HDMI_Status=1,uvc_iso_out_DAC_Status=0
+[2021-01-14 17:19:46.929] Audio HDMI State : Prepare->Check HDMI
+[2021-01-14 17:19:46.978] ---------------------------------------
+[2021-01-14 17:19:46.978] GPIO2 = 0(2676)
+[2021-01-14 17:19:46.978] ---------------------------------------
+[2021-01-14 17:19:46.978] Audio HDMI State : Check HDMI->Stable
+
+
+[2021-01-14 17:57:32.632] Qoo vic 16 5 Video State : Check HDMI->Update Video
+[2021-01-14 17:57:32.767] fusb300_vbus_change : FUSB300_OFFSET_GCR : 0x0
+[2021-01-14 17:57:32.815] [avm_setup_is_done] val=0
+
+[2021-01-14 17:57:35.739] Clear Feature : U2_ENABLE
+[2021-01-14 17:57:35.739] [avm_setup_is_done] val=1
+
+
+
+
+
+[2021-01-14 17:59:28.046] Qoo vic 5 16 Video State : Check HDMI->Update Video
+[2021-01-14 17:59:28.248] fusb300_vbus_change : FUSB300_OFFSET_GCR : 0x0
+[2021-01-14 17:59:28.248] [avm_setup_is_done] val=0
+
+[2021-01-14 17:59:31.286] fusb300_ep0
+[2021-01-14 17:59:31.323]   clear_feature
+[2021-01-14 17:59:31.323] Clear Feature : U2_ENABLE
+[2021-01-14 17:59:31.323] [avm_setup_is_done] val=1
+
+
+---------------------------------------------------------------------
+## 2021/01/13 (WE)
+
+回家反省自己，怎麼連個BU113裝置的名稱字串都搞不定。覺得自己應該去讀SPEC，不應該問你、把你的回覆當標準。
+這問題挺有意思的，好幾位同事寫了好幾個相同的產品名稱問題，後來都關掉了。沒有人真的去讀規格書、跟規格書比對。
+歹勢啦，昨天講話大聲了些。如果您覺得不舒服，鄭重跟您道歉。
+
+BU113-133
+https://www.cypress.com/comment/286026
+ithTimerGetCounter(0);
+
+
+---------------------------------------------------------------------
 ## 2021/01/12 (TU)
 
 精準閱讀 伊藤真
