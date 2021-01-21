@@ -1,5 +1,24 @@
 # JOURNAL
 
+
+從 Windows 8 開始，DirectX SDK 併入 Windows SDK。[link](https://docs.microsoft.com/en-us/windows/win32/directx-sdk--august-2009-)
+最後一版 DirectX SDK 發行於 June 2010。 [link](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------------------
 ## 2021/01/20 (WE)
 
