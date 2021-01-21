@@ -1,6 +1,41 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 2021/01/20 (WE)
+
+iau9gfY3FU$Z9RT
+
+
+07CA1113
+
+
+---------------------------------------------------------------------
+## 2021/01/19 (TU)
+
+Launchkey 49
+Serial: LC9431732160 Bundle code: PQAA65-CDGRFX-RGALC9
+
+
+Your code is: 55EE-03A2-5774-2061-61DD-C7DA
+Granted by your registration of: Scarlett 2i2 2nd Gen
+
+Your code is: 527c-0aea-92dd-d177-6af2-48f6
+Granted by your registration of: Launchkey 49
+
+
+
+
+
+uvc_timer_to_pts() return 
+FPS_60 		1666666
+FPS_59_94 		166833
+FPS_50 		200000
+FPS_30 		333333
+FPS_29_97 	333667
+FPS_25 		400000
+
+
+---------------------------------------------------------------------
 ## 2021/01/15 (FR)
 
 
@@ -8,6 +43,8 @@
 
 
 
+Launchkey 49
+Serial: LC9431732160 Bundle code: PQAA65-CDGRFX-RGALC9
 
 
 
