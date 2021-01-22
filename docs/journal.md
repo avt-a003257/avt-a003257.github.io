@@ -1,23 +1,85 @@
 # JOURNAL
 
+---------------------------------------------------------------------
+## 2021/01/22 (FR)
+
+
+
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 32 30
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 34
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 32
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 31 39
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 31 35
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 33
+
+D:\avt\BU113\src\
+D:\avt\bu113_sdk1214\BU113\
+
+remote: Resolving deltas: 100% (25/25)
+remote: Processing changes: refs: 1, done
+remote: commit 469e8bf: Missing issue-id in commit message
+remote: Commit 469e8bfdc02470fbbcea503e1c1a5b6b9b6d6a0d not associated to any issue
+remote:
+remote: Hint: insert one or more issue-id anywhere in the commit message.
+remote:       Issue-ids are strings matching ([A-Z]+-[0-9]+)
+remote:       and are pointing to existing tickets on its-jira Issue-Tracker
+remote: commit d490ab5: Missing issue-id in commit message
+remote: Commit d490ab59d5a2fb1f974e619bfec0e574061a54ab not associated to any issue
+remote:
+remote: Hint: insert one or more issue-id anywhere in the commit message.
+remote:       Issue-ids are strings matching ([A-Z]+-[0-9]+)
+remote:       and are pointing to existing tickets on its-jira Issue-Tracker
+remote: commit 0b4e85f: Missing issue-id in commit message
+remote: Commit 0b4e85f7969987b02ef823f7016a6cefaec5cb3a not associated to any issue
+remote:
+remote: Hint: insert one or more issue-id anywhere in the commit message.
+remote:       Issue-ids are strings matching ([A-Z]+-[0-9]+)
+remote:       and are pointing to existing tickets on its-jira Issue-Tracker
+remote: commit 23a841e: warning: subject >50 characters; use shorter first paragraph
+remote: commit 23a841e: warning: too many message lines longer than 72 characters; manually wrap lines
+remote: commit 23a841e: Missing issue-id in commit message
+remote: Commit 23a841e6ecd972974e945f2628f07be834a21d66 not associated to any issue
+remote:
+remote: Hint: insert one or more issue-id anywhere in the commit message.
+remote:       Issue-ids are strings matching ([A-Z]+-[0-9]+)
+remote:       and are pointing to existing tickets on its-jira Issue-Tracker
+To ssh://CodeReview-New.avermedia.com:29418/Embedded_FW/IT9325/BU113
+! [remote rejected] bu113_alpha_sdk1214 -> refs/for/bu113_alpha_sdk1214 (change http://CodeReview-New.avermedia.com:8081/c/Embedded_FW/IT9325/BU113/+/22993 closed)
+error: failed to push some refs to 'ssh://a003257@CodeReview-New.avermedia.com:29418/Embedded_FW/IT9325/BU113'
+
+
+git did not exit cleanly (exit code 1) (515 ms @ 2021/1/22 上午 11:21:32)
+
+
+---------------------------------------------------------------------
+## 2021/01/21 (TH)
+
 
 從 Windows 8 開始，DirectX SDK 併入 Windows SDK。[link](https://docs.microsoft.com/en-us/windows/win32/directx-sdk--august-2009-)
 最後一版 DirectX SDK 發行於 June 2010。 [link](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 
 
 
+[2021-01-21 14:13:24.856] Qoo vic 4 16 Video State : Check HDMI->Update Video
+
+[2021-01-21 14:13:40.174] Video State : Update Video->Stable
 
 
+[2021-01-21 14:29:34.706] Qoo vic 4 16 Video State : Check HDMI->Update Video
+
+[2021-01-21 14:29:42.427] Audio HDMI State : Sync->Stable
+
+[2021-01-21 15:00:41.206] Qoo vic 16->4 Video State : Check HDMI->Update Video
+[2021-01-21 15:00:56.767] Video State : Update Video->Stable
+
+[2021-01-21 15:13:19.065] Qoo vic 16->4 Video State : Check HDMI->Update Video
+[2021-01-21 15:13:34.384] Video State : Update Video->Stable
 
 
-
-
-
-
-
-
-
-
+AP Version: RECentral 4_v4.6.0.21
+FW Vision: 0.0.0.9
+Platform: ASUS D830MD
+Reproducibility(%): 0/10
 
 ---------------------------------------------------------------------
 ## 2021/01/20 (WE)
@@ -618,6 +680,9 @@ S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 35
 S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 37
 S/N: 1 35 31 30 30 33 33 33 36 30 30 30 30 36
 S/N: 1 35 31 30 30 33 33 33 36 30 30 30 31 34
+
+
+
 
 [2021-01-06 20:04:04.411] USB :	width = 1920, height = 1080
 [2021-01-06 20:04:04.411] Capture Input : YUV444DP
