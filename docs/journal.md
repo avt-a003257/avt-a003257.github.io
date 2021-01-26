@@ -1,6 +1,20 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 2021/01/25 (MO)
+
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 32 37
+
+
+#define VIDEO_FRAME_INTERVAL_FPS_60       (0x028B0A) //166,666
+#define VIDEO_FRAME_INTERVAL_FPS_59_94    (0x028BB1) //166,833
+#define VIDEO_FRAME_INTERVAL_FPS_50       (0x030D40) //200,000
+#define VIDEO_FRAME_INTERVAL_FPS_30       (0x051615) //333,333
+#define VIDEO_FRAME_INTERVAL_FPS_29_97    (0x051763) //333,667
+#define VIDEO_FRAME_INTERVAL_FPS_25       (0x061A80) //400,000
+
+
+---------------------------------------------------------------------
 ## 2021/01/22 (FR)
 
 
