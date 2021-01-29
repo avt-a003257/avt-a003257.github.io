@@ -1,12 +1,69 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 2021/01/29 (FR)
+
+USB Protocol Suite v8.50.3675
+
+002-程式規劃、撰寫、測試
+050-例行性會
+090-請假
+
+
+
+---------------------------------------------------------------------
+## 2021/01/28 (TH)
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/stream/uvc-extensions-1-5
+
+
+The least-significant 32 bits (D31..D0) contain clock values sampled from the System Time Clock (STC) at the source. 
+The times at which the STC is sampled must be correlated with the USB Bus Clock.
+
+
+https://www.cypress.com/documentation/software-and-drivers/ez-usb-fx3-software-development-kit
+
+
+
+Essential COM by Don Box (Addison-Wesley Professional, 1998) https://github.com/spb59h2/spb5
+Inside COM by Dale Rogerson (Microsoft Press, 1997)
+
+
+
+https://linux-uvc-devel.narkive.com/iTSobvFk/the-source-clock
+
+UVC 标头PTS和SCR拓展部分添加问题 https://bbs.csdn.net/topics/391984027
+
+How to Implement an Image Sensor Interface Using EZ-USB FX3 in a USB Video Class (UVC) Framework
+如何使用 EZ-USB FX3 将图像传感器连接到 USB 视频类别（UVC）框架内
+AN75779 https://www.cypress.com/file/123506/download
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------
 ## 2021/01/26 (TU)
 
 
 
 https://docs.microsoft.com/en-us/windows/win32/directshow/directshow
 
+http://jira.avermedia.com/browse/BU113-115
+
+
+
+問題無法複製。問題可能來自X370平台，詳見問題連結 http://jira.avermedia.com/browse/BU113-115 
+
+複驗平台如下
+FW version: 0.0.0.10
+AP Version: RECetnral v4.6.0.21
+OS Version: Windows 10 Pro 版本2004
+Platform: ASUS D830MD
+HDMI SOURCE: AMD RADEON RX570
 
 
 ---------------------------------------------------------------------
