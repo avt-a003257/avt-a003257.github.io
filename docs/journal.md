@@ -1,6 +1,513 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 2021/02/04 (TH)
+
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 31 33
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 33 32
+S/N: 1 35 31 30 30 33 33 33 36 30 30 31 31 35
+S/N: 1 35 31 30 30 33 33 33 36 30 30 31 32 30
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 32 35
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 33 36
+S/N: 1 35 31 30 30 33 33 33 36 30 30 31 30 39
+S/N: 1 35 31 30 30 33 33 33 36 30 30 31 31 36
+
+
+
+
+---------------------------------------------------------------------
+## 2021/02/03 (WE)
+
+
+static unsigned char usb_cfgDesc_1Y[] =
+{
+	0x09, 							// 0 bLength = 9 bytes
+	0x02, 							// 1 bDescriptorType - Configuration
+
+	0xA6, 0x01, 					// 2 wTotalLength = 0x01A6 = 422
+	0x05,							// 4 bNumInterfaces = 5 interfaces
+
+	0x01, 							// 5 bConfigurationValue
+	0x00, 							// 6 iConfiguration
+	0x80, 							// 7 bmAttributes - Bus powered
+	0x70, 							// 8 bMaxPower = 896mA
+
+	//Interface Association Descriptor(0-1) (288 bytes) 147(9+8+9+81+27+13)+141
+#if 1
+	0x08,							// 0 bLength = 8 bytes
+	0x0B,							// 1 bDescriptorType - Interface Association
+	0x00,							// 2 bFirstInterface = 0
+	0x02,							// 3 bInterfaceCount - 2 Interfaces
+	0x0E,							// 4 bFunctionClass - Video Class
+	0x03,							// 5 bFunctionSubClass - SC Video Interface Collection
+	0x00,							// 6 bFunctionProtocol - No protocol
+	0x02,							// 7 iFunction
+
+	//Video Control (VC) Interface Descriptor(0)
+	0x09, 							// 0 bLength = 9 bytes
+	0x04, 							// 1 bDescriptorType - Interface
+	0x00, 							// 2 bInterfaceNumber - Interface 0
+	0x00, 							// 3 bAlternateSetting = 0
+	0x01, 							// 4 bNumEndpoints = 1
+	0x0E, 							// 5 bInterfaceClass - Video Class
+	0x01, 							// 6 bInterfaceSubClass - VideoControl Interface
+	0x00, 							// 7 bInterfaceProtocol - No protocol
+	0x02, 							// 8 iInterface
+
+	//Class-specific VC Interface Header Descriptor
+	0x0D, 							// 0 bLength = 13 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x01, 							// 2 bDescriptorSubType - HEADER
+	0x10, 0x01, 					// 3 bcdUVC - Video class revision 1.1
+	0x51, 0x00, 					// 5 wTotalLength = 81bytes = 13 + 18 + 13 + 28 + 9
+	0x00, 0xE1, 0xF5, 0x05, 		// 7 dwClockFrequency = 0x05F5E100 = 100000000 = 100MHz
+	0x01, 							// 11 bInCollection - One Streaming Interface
+	0x01, 							// 12 baInterfaceNr - Number of the Streaming interface
+
+	//VC Input Terminal Descriptor
+	0x12, 							// 0 bLength = 18 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x02, 							// 2 bDescriptorSubType - INPUT TERMINAL
+	0x01, 							// 3 bTerminalID
+	0x01, 0x02, 					// 4 wTerminalType - ITT_CAMERA type (CCD Sensor)
+	0x00, 							// 6 bAssocTerminal - No association
+	0x00, 							// 7 iTerminal - Unused
+	0x00, 0x00, 					// 8 wObjectiveFocalLengthMin - No optical zoom supported
+	0x00, 0x00, 					// 10 wObjectiveFocalLengthMax - No optical zoom supported
+	0x00, 0x00, 					// 12 wOcularFocalLength - No optical zoom supported
+	0x03, 							// 14 bControlSize - 3 bytes
+	0x00, 							// 15 bmControls 0
+	0x00, 							// 16 bmControls 1
+	0x00, 							// 17 bmControls 2	
+	
+	//VC Process Unit Descriptor
+	0x0D, 							// 0 bLength = 13 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x05, 							// 2 bDescriptorSubType1 - PROCESSING UNIT
+	0x02, 							// 3 bUnitID
+	0x01,							// 4 bSourceID
+	0x00, 0x00, 					// 5 wMaxMultiplier = 0.
+	0x03, 							// 7 bControlSize
+	0x00, 							// 8 bmControls 0	b0:Brightness, b1:Contrast, b2:Hue, b3:Saturation, b4:Sharpness, b5:Gamma, b6:White Balance Temperature, b7:White Balance Component
+	0x00,		 					// 9 bmControls 1	b0:Backlight Compensation, b1:Gain..........................
+	0x00, 		 					// 10 bmControls 2
+	0x00,		 					// 11 iProcessing
+	0x00,		 					// 12 for UVC1.1/1.5
+	
+	//VC Extension Unit Descriptor
+	0x1C, 							// 0 bLength = 28 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x06, 							// 2 bDescriptorSubType1 - EXTENSION UNIT
+	0x03, 							// 3 bUnitID
+    0xCF, 0x38, 0xA1, 0x7C,			// 4 guidExtensionCode
+    0xF2, 0x71, 0xC5, 0x4E,
+    0x8D, 0x4C, 0xF0, 0x87,
+    0x74, 0x1C, 0xAB, 0xAE,
+	0x18,							// 20 bNumControls
+	0x01, 							// 21 bNrInPins
+	0x02, 							// 22 baSourceID(1)
+	0x03,		 					// 23 bControlSize
+	0xFF, 		 					// 24 bmControls 0
+	0xFF,		 					// 25 bmControls 1
+	0xFF,		 					// 26 bmControls 2
+	0x00,		 					// 27 iExtension
+	
+	//Output Terminal Descriptor
+	0x09, 							// 0 bLength = 9 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x03, 							// 2 bDescriptorSubType - OUTPUT TERMINAL
+	0x04, 							// 3 bTerminalID
+	0x01, 0x01, 					// 4 wTerminalType - TT_STREAMING type
+	0x00,		 					// 6 bAssocTerminal
+	0x03,		 					// 7 bSourceID
+	0x00,		 					// 8 iTerminal
+
+	//ENDPOINT Descriptor(EP2, In, INT)
+	0x07,          					// 0 bLength = 7 bytes
+	0x05,           				// 1 bDescriptorType - ENDPOINT
+	0x82,           				// 2 bEndpointAddress = EP2 & In
+	0x03,           				// 3 bmAttributes = Interrupt type
+	0x40, 0x00,						// 4 wMaxPacketSize = 64 bytes
+	0x01,           				// 5 bInterval - polling interval value is every 1 Frame
+	//SS USB EndPoint Companion Descriptor
+	0x06,          					// 0 bLength = 6 bytes
+	0x30,           				// 1 bDescriptorType - SUPERSPEED_USB_ENDPOINT_COMPANION
+	0x00,           				// 2 bMaxBurst - The endpoint can send or receive maximum of 1 packets as a part of burst Maximum packet of a burst
+	0x00,           				// 3 bmAttributes
+	0x40, 0x00,						// 4 wBytesPerInterval = 64 bytes
+	//Video Interrupt Endpoint Descriptor
+	0x05, 							// 0 bLength = 5 bytes
+	0x25, 							// 1 bDescriptorType - Class-specific Interface
+	0x03, 							// 2 bDescriptorSubType - EP_INTERRUPT
+	0x40, 0x00, 					// 5 wMaxTransferSize = 64 bytes
+
+	//Video Streaming Interface Descriptor(1)
+	0x09,							// 0 bLength = 9 bytes
+	0x04,							// 1 bDescriptorType - Interface
+	0x01,							// 2 bInterfaceNumber - Interface 1
+	0x00,							// 3 bAlternateSetting = 0
+	0x01, 							// 4 bNumEndpoints = 1
+	0x0E,							// 5 bInterfaceClass - Video Class
+	0x02,							// 6 bInterfaceSubClass - SC_VIDEOSTREAMING
+	0x00,							// 7 bInterfaceProtocol - No protocol
+	0x00,							// 8 iInterface - index of string
+
+	//Class-specific VC Interface Header Descriptor
+//	0x0F, 							// 0 bLength = 15 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x01, 							// 2 bDescriptorSubType - HEADER
+//	0x02,							// 3 bNumFormats = 2
+//	0x8D, 0x00,						// 4 wTotalLength = 0x008D = 141 bytes 
+	0x83,							// 6 bEndpointAddress - Endpoint 3 IN
+	0x00,							// 7 bmInfo
+	0x04,							// 8 bTerminalLink - Output Terminal is 4
+	0x00,							// 9 bStillCaptureMethod - none
+	0x00,							// 10 bTriggerSupport - no
+	0x00,							// 11 bTriggerUsage
+	0x01,							// 12 bControlSize
+	0x00,							// 13 Fmt1 bmControls(1)
+//	0x00,							// 14 Fmt2 bmControls(1)
+#if 0
+	//VS_FORMAT_UNCOMPRESSED descriptor
+	0x1B, 							// 0 bLength = 27 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x04, 							// 2 bDescriptorSubType1 - VS_FORMAT_UNCOMPRESSED
+	0x01, 							// 3 bFormatIndex = 1
+	0x01,							// 4 bNumFrameDescriptors = 1
+	0x4E, 0x56, 0x31, 0x32,			// 5 guidFormat - Globally Unique Identifier used to identify stream-encoding format(3231564E-0000-0010-8000-00AA00389B71 "NV12")
+	0x00, 0x00, 0x10, 0x00,
+	0x80, 0x00, 0x00, 0xAA,
+	0x00, 0x38, 0x9B, 0x71,
+	0x0C,							// 21 bBitsPerPixel = 12
+	0x01,							// 22 bDefaultFrameIndex = 1
+	0x10,							// 23 bAspectRatioX	= 16
+	0x09, 							// 24 bAspectRatioY	= 9
+	0x00,							// 25 bmInterlaceFlags
+	0x00,							// 26 bCopyProtect
+	//VS_FRAME_UNCOMPRESSED descriptor
+	0x1E, 							// 0 bLength = 30 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x05,							// 2 bDescriptorSubType1 - VS_FRAME_UNCOMPRESSED
+	0x01, 							// 3 bFrameIndex
+	0x02,							// 4 bmCapabilities
+	0x80, 0x07, 					// 5 wWidth = 0x0780 = 1920
+	0x38, 0x04,						// 7 wHeight = 0x0438 = 1080
+	0x00, 0x30, 0x14, 0x25,
+	0x00, 0x80, 0xFA, 0xB1,
+	0x00, 0x76, 0x2F, 0x00,			// 17 dwMaxVideoFrameBufferSize = 0x002F7600 = 3110400 = 1920 * 1080 * 1.5
+	0x0A, 0x8B, 0x02, 0x00,			// 21 dwDefaultFrameInterval = 0x00028B0A = 166666
+	0x01, 							// 25 bFrameIntervalType
+	0x0A, 0x8B, 0x02, 0x00, 		// 30 dwFrameInterval(2) = 166666 = 1 / 60 * 10^7
+	//VS_COLORFORMAT descriptor
+	0x06, 							// 0 bLength = 6 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x0D,							// 2 bDescriptorSubType1 - VS_COLORFORMAT
+	0x01,							// 3 bColorPrimaries - BT.709, sRGB (default)
+	0x01,							// 4 bXferCharacteristics - BT.709(default)
+	0x01,							// 5 bMatrixCoefficients - BT.709
+#endif /* 0 */
+	//VS_FORMAT_UNCOMPRESSED descriptor
+	0x1B, 							// 0 bLength = 27 bytes
+	0x24,							// 1 bDescriptorType - Class-specific Interface
+	0x04,							// 2 bDescriptorSubType1 - VS_FORMAT_UNCOMPRESSED
+	0x02,							// 3 bFormatIndex = 2
+	0x01,							// 4 bNumFrameDescriptors = 1
+	0x59, 0x55, 0x59, 0x32,			// 5 guidFormat - Globally Unique Identifier used to identify stream-encoding format(32595559-0000-0010-8000-00AA00389B71 "YUY2")
+	0x00, 0x00, 0x10, 0x00,
+	0x80, 0x00, 0x00, 0xAA,
+	0x00, 0x38, 0x9B, 0x71,
+	0x10,							// 21 bBitsPerPixel = 16
+	0x01,							// 22 bDefaultFrameIndex
+	0x10,							// 23 bAspectRatioX	= 16
+	0x09,							// 24 bAspectRatioY = 9
+	0x00,							// 25 bmInterlaceFlags
+	0x00,							// 26 bCopyProtect
+	//VS_FRAME_UNCOMPRESSED descriptor
+	0x1E, 							// 0 bLength = 30 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x05,							// 2 bDescriptorSubType1 - VS_FRAME_UNCOMPRESSED
+	0x01,							// 3 bFrameIndex
+	0x03,							// 4 bmCapabilities
+	0x80, 0x07,						// 5 wWidth = 0x0780 = 1920
+	0x38, 0x04,						// 7 wHeight = 0x0438 = 1080
+	0x00, 0x40, 0x70, 0x31,			// 9 dwMinBitRate = 0x31704000 = 829440000
+	0x00, 0x00, 0xA7, 0x76,			// 13 dwMaxBitRate = 0x76A70000 = 1990656000
+	0x00, 0x48, 0x3F, 0x00,			// 17 dwMaxVideoFrameBufferSize = 0x003F4800 = 4147200 = 1920 * 1080 * 2
+	0x0A, 0x8B, 0x02, 0x00,			// 21 dwDefaultFrameInterval = 0x00028B0A = 166666
+	0x01, 							// 25 bFrameIntervalType
+	0x0A, 0x8B, 0x02, 0x00, 		// 26 dwFrameInterval(1) = 166666 = 1 / 60 * 10^7
+	//VS_COLORFORMAT descriptor
+	0x06, 							// 0 bLength = 6 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x0D,							// 2 bDescriptorSubType1 - VS_COLORFORMAT
+	0x01,							// 3 bColorPrimaries - BT.709, sRGB (default)
+	0x01,							// 4 bXferCharacteristics - BT.709(default)
+	0x01,							// 5 bMatrixCoefficients - BT.709
+
+	//ENDPOINT Descriptor(EP3, In, BULK)
+	0x07, 							// 0 bLength = 7 bytes
+	0x05,							// 1 bDescriptorType - ENDPOINT
+	0x83,							// 2 bEndpointAddress = EP3 & In
+	0x02,							// 3 bmAttributes - BULK
+	0x00, 0x04,						// 4 wMaxPacketSize = 0x0400 = 1024 bytes
+	0x00,							// 6 bInterval
+	//SUPERSPEED_USB_ENDPOINT_COMPANION Descriptor
+	0x06, 							// 0 bLength = 6 bytes
+	0x30,							// 1 bDescriptorType - SUPERSPEED_USB_ENDPOINT_COMPANION
+	0x0F,							// 2 bMaxBurst = 16 packet
+	0x00,							// 3 bmAttributes
+	0x00, 0x00,						// 4 wBytesPerInterval
+#endif
+	///////////////////////////////////////////////////////
+	//Interface Association Descriptor(2-3) (103 bytes)
+#if 1
+	0x08,							// 0 bLength = 8 bytes
+	0x0B,							// 1 bDescriptorType - Interface Association
+	0x02,							// 2 bFirstInterface = 2
+	0x02,							// 3 bInterfaceCount - 2 Interfaces
+	0x01,							// 4 bFunctionClass - Audio Interface
+	0x01,							// 5 bFunctionSubClass - AUDIOCONTROL
+	0x00,							// 6 bFunctionProtocol - No protocol
+	0x08,							// 7 iFunction - index of string = 8
+	//INTERFACE Descriptor(2)
+	0x09, 							// 0 bLength = 9 bytes
+	0x04, 							// 1 bDescriptorType - Interface
+	0x02, 							// 2 bInterfaceNumber - Interface 2
+	0x00, 							// 3 bAlternateSetting = 0
+	0x00, 							// 4 bNumEndpoints = 0
+	0x01,							// 5 bInterfaceClass - Audio Interface
+	0x01,							// 6 bInterfaceSubClass - AUDIOCONTROL
+	0x00,							// 7 bInterfaceProtocol
+	0x08,							// 8 iInterface
+	//Audio Class Specific INTERFACE Descriptor
+	0x09, 							// 0 bLength = 9 bytes
+	0x24,							// 1 bDescriptorType - Class-specific Interface
+	0x01, 							// 2 bDescriptorSubType - HEADER
+	0x00, 0x01,						// 3 bcdADC - 1.00
+	0x1E, 0x00,						// 5 wTotalLength = 0x001E = 30 bytes = 9 + 12 + 9
+	0x01,							// 7 bInCollection
+	0x03,							// 8 baInterfaceNr(0)
+	//INPUT_TERMINAL Descriptor
+	0x0C,							// 0 bLength = 12 bytes
+	0x24,							// 1 bDescriptorType - Class-specific Interface
+	0x02,							// 2 bDescriptorSubType - INPUT_TERMINAL
+	0x01, 							// 3 bTerminalID
+	0x02, 0x06,						// 4 wTerminalType - A generic digital audio interface
+	0x00,							// 6 bAssocTerminal
+	0x02,							// 7 bNrChannels
+	0x03, 0x00,						// 8 bmChannelConfig
+	0x00,							// 9 iChannelNames
+	0x0A,							// 10 iTerminal
+	//OUTPUT_TERMINAL Descriptor
+	0x09, 							// 0 bLength = 9 bytes
+	0x24,							// 1 bDescriptorType - Class-specific Interface
+	0x03,							// 2 bDescriptorSubType - OUTPUT_TERMINAL
+	0x09,							// 3 bTerminalID
+	0x01, 0x01,						// 4 wTerminalType
+	0x00,							// 6 bAssocTerminal
+	0x01,							// 7 bSourceID
+	0x00,							// 8 iTerminal
+	//INTERFACE Descriptor(3)
+	0x09,							// 0 bLength = 9 bytes
+	0x04, 							// 1 bDescriptorType - Interface
+	0x03, 							// 2 bInterfaceNumber - Interface 3
+	0x00, 							// 3 bAlternateSetting = 0
+	0x00, 							// 4 bNumEndpoints = 0
+	0x01,							// 5 bInterfaceClass - Audio Interface
+	0x02, 							// 6 bInterfaceSubClass - AUDIOSTREAMING
+	0x00, 							// 7 bInterfaceProtocol
+	0x08,							// 8 iInterface
+	//INTERFACE Descriptor(3)
+	0x09,							// 0 bLength = 9 bytes
+	0x04, 							// 1 bDescriptorType - Interface
+	0x03, 							// 2 bInterfaceNumber - Interface 3
+	0x01, 							// 3 bAlternateSetting = 1
+	0x01, 							// 4 bNumEndpoints = 1
+	0x01,							// 5 bInterfaceClass - Audio Interface
+	0x02, 							// 6 bInterfaceSubClass - AUDIOSTREAMING
+	0x00, 							// 7 bInterfaceProtocol
+	0x08,							// 8 iInterface
+	//AS_GENERAL Descriptor
+	0x07,							// 0 bLength = 7 bytes
+	0x24,							// 1 bDescriptorType - Class-specific Interface
+	0x01, 							// 2 bDescriptorSubType - AS_GENERAL
+	0x09,	 						// 3 bTerminalLink
+	0x01,							// 4 bDelay
+	0x01, 0x00,						// 5 wFormatTag - PCM
+	//Audio Class Specific INTERFACE Descriptor
+	0x0B,							// 0 bLength = 11 bytes
+	0x24,							// 1 bDescriptorType - Class-specific Interface
+	0x02,							// 2 bDescriptorSubType - FORMAT_TYPE
+	0x01, 							// 3 bFormatType - FORMAT_TYPE_I
+	0x02,							// 4 bNrChannels
+	0x02, 							// 5 bSubframeSize
+	0x10,							// 6 bBitResolution = 16
+	0x01,							// 7 bSamFreqType
+	0x80, 0xBB, 0x00,				// 8 tSamFreq[1] = 0x00BB80 = 48000
+	//ENDPOINT Descriptor(EP1, In, ISO)
+	0x07,							// 0 bLength = 7 bytes 
+	0x05,							// 1 bDescriptorType - ENDPOINT
+	0x81,							// 2 bEndpointAddress = EP1 & In
+	0x05,							// 3 bmAttributes - Types - ISOCHRONOUS,Asynchronous,Data endpoint = 5		Types - ISOCHRONOUS,Synchronous,Data endpoint = 0xD
+	0xC0, 0x00,						// 4 wMaxPacketSize = 192 bytes
+	0x04,							// 6 bInterval - 4 frames
+	//SUPERSPEED_USB_ENDPOINT_COMPANION Descriptor
+	0x06, 							// 0 bLength = 6 bytes
+	0x30,							// 1 bDescriptorType - SUPERSPEED_USB_ENDPOINT_COMPANION
+	0x00,							// 2 bMaxBurst = 16 packet
+	0x00,							// 3 bmAttributes
+	0xC0, 0x00,						// 4 wBytesPerInterval
+	//Audio Class Specific ENDPOINT Descriptor
+	0x07,							// 0 bLength = 7 bytes
+	0x25,							// 1 bDescriptorType - Class-specific Interface
+	0x01,							// 2 bDescriptorSubType - AUDIO_EP_GENE
+	0x00,							// 3 bmAttributes
+	0x00,							// 4 bLockDelayUnits
+	0x00, 0x00,						// 5 wLockDelay
+#endif
+	///////////////////////////////////////////////////////
+	//Interface Association Descriptor(2-4) (235 bytes)
+#if 0
+	0x08, 0x0B, 0x02, 0x03, 0x01, 0x01, 0x00, 0x08, 									//IAD(2-4)
+	0x09, 0x04, 0x02, 0x00, 0x00, 0x01, 0x01, 0x00, 0x08,								//Interface(2) 
+	0x0A, 0x24, 0x01, 0x00, 0x01, 0x6A, 0x00, 0x02, 0x03, 0x04,
+	0x0C, 0x24, 0x02, 0x01, 0x01, 0x01, 0x00, 0x02, 0x03, 0x00, 0x00, 0x0B, 			//Input Terminal(#1)  
+	0x0C, 0x24, 0x02, 0x02, 0x02, 0x06, 0x00, 0x02, 0x03, 0x00, 0x00, 0x0A, 			//Input Terminal(#2)  
+	0x0A, 0x24, 0x06, 0x03, 0x01, 0x01, 0x01, 0x02, 0x02, 0x0B, 						//Feature Unit(#3 from #1) 
+	0x0A, 0x24, 0x06, 0x04, 0x02, 0x01, 0x01, 0x02, 0x02, 0x0A, 						//Feature Unit(#4 from #2) 
+	0x0E, 0x24, 0x04, 0x05, 0x02, 0x03, 0x04, 0x02, 0x03, 0x00, 0x00, 0x00, 0x00, 0x00, //Mix Unit(#5 from #3 & #4) 
+	0x0A, 0x24, 0x06, 0x06, 0x05, 0x01, 0x01, 0x02, 0x02, 0x00, 						//Feature Unit(#6 from #5)
+	0x09, 0x24, 0x03, 0x07, 0x02, 0x03, 0x00, 0x06, 0x00,								//Output Terminal(#7 from #6)	
+	0x0A, 0x24, 0x06, 0x08, 0x02, 0x01, 0x01, 0x02, 0x02, 0x0A, 						//Feature Unit(#8 from #2)
+	0x09, 0x24, 0x03, 0x09, 0x01, 0x01, 0x00, 0x08, 0x00,								//Output Terminal(#9 from #8) 
+	0x09, 0x04, 0x03, 0x00, 0x00, 0x01, 0x02, 0x00, 0x08,								//Interface(3) 
+	0x09, 0x04, 0x03, 0x01, 0x01, 0x01, 0x02, 0x00, 0x08,								//Interface(3) 
+	0x07, 0x24, 0x01, 0x09, 0x01, 0x01, 0x00,											//EP from #9
+	0x0B, 0x24, 0x02, 0x01, 0x02, 0x02, 0x10, 0x01, 0x80, 0xBB, 0x00,
+	0x07, 0x05, 0x81, 0x0D, 0xC0, 0x00, 0x04,											//EP1 ISO In
+	0x06, 0x30, 0x00, 0x00, 0xC0, 0x00,
+	0x07, 0x25, 0x01, 0x00, 0x00, 0x00, 0x00,
+	0x09, 0x04, 0x04, 0x00, 0x00, 0x01, 0x02, 0x00, 0x08,								//Interface(4) 
+	0x09, 0x04, 0x04, 0x01, 0x01, 0x01, 0x02, 0x00, 0x08,								//Interface(4) 
+	0x07, 0x24, 0x01, 0x01, 0x01, 0x01, 0x00,											//EP to #1
+	0x0B, 0x24, 0x02, 0x01, 0x02, 0x02, 0x10, 0x01, 0x80, 0xBB, 0x00,
+	0x07, 0x05, 0x04, 0x0D, 0xC0, 0x00, 0x04,											//EP4 ISO Out
+	0x06, 0x30, 0x00, 0x00, 0xC0, 0x00,
+	0x07, 0x25, 0x01, 0x00, 0x00, 0x00, 0x00,
+#endif
+	///////////////////////////////////////////////////////
+	//Interface Association Descriptor(5-6) (113 bytes)
+#if 0
+	0x08, 0x0B, 0x05, 0x02, 0x01, 0x01, 0x00, 0x09,										//IAD(5-6)
+	0x09, 0x04, 0x05, 0x00, 0x00, 0x01, 0x01, 0x00, 0x09,								//Interface(5) 
+	0x09, 0x24, 0x01, 0x00, 0x01, 0x28, 0x00, 0x01, 0x06,
+	0x0C, 0x24, 0x02, 0x0A, 0x01, 0x02, 0x00, 0x02, 0x03, 0x00, 0x00, 0x0B,				//Input Terminal(#A)  
+	0x0A, 0x24, 0x06, 0x0B, 0x0A, 0x01, 0x03, 0x00, 0x00, 0x0B,							//Feature Unit(#B) 
+	0x09, 0x24, 0x03, 0x0C, 0x01, 0x01, 0x00, 0x0B, 0x00,								//Output Terminal(#C)   
+	0x09, 0x04, 0x06, 0x00, 0x00, 0x01, 0x02, 0x00, 0x09,								//Interface(6) 
+	0x09, 0x04, 0x06, 0x01, 0x01, 0x01, 0x02, 0x00, 0x09,								//Interface(6) 
+	0x07, 0x24, 0x01, 0x0C, 0x01, 0x01, 0x00,											//EP from #C
+	0x0B, 0x24, 0x02, 0x01, 0x02, 0x02, 0x10, 0x01, 0x80, 0xBB, 0x00,
+	0x07, 0x05, 0x85, 0x0D, 0xC0, 0x00, 0x04,											//EP5 ISO In
+	0x06, 0x30, 0x00, 0x00, 0xC0, 0x00,
+	0x07, 0x25, 0x01, 0x00, 0x00, 0x00, 0x00,
+#endif
+	///////////////////////////////////////////////////////
+	//INTERFACE Descriptor(7) (31 bytes)
+#if 1
+	0x09,							// 0 bLength = 9 bytes
+	0x04, 							// 1 bDescriptorType - Interface
+	0x07, 							// 2 bInterfaceNumber - Interface 7
+	0x00, 							// 3 bAlternateSetting = 0
+	0x01, 							// 4 bNumEndpoints = 1
+	0x03,							// 5 bInterfaceClass - HID
+	0x00,							// 6 bInterfaceSubClass
+	0x00, 							// 7 bInterfaceProtocol - None
+	0x05,							// 8 iInterface
+	//HID Descriptor
+	0x09,							// 0 bLength = 9 bytes
+	0x21,							// 1 bDescriptorType - HID
+	0x11, 0x01,						// 2 bcdHID - 1.11
+	0x00,							// 4 bCountryCode
+	0x01,							// 5 bNumDescriptor
+	0x22,							// 6 bDescriptorType - Report
+	0x46, 0x00,						// 7 wDescriptorLength = 0x0046 = 70 bytes
+	//ENDPOINT Descriptor(EP7, In, INT)
+	0x07,							// 0 bLength = 7 bytes
+	0x05,							// 1 bDescriptorType - ENDPOINT
+	0x87,							// 2 bEndpointAddress = EP7 & In
+	0x03,							// 3 bmAttributes - INTERRUPT
+	0x00, 0x02,						// 4 wMaxPacketSize = 0x0200 = 512 bytes
+	0x0A,							// 6 bInterval
+	//SUPERSPEED_USB_ENDPOINT_COMPANION Descriptor
+	0x06,							// 0 bLength = 6 bytes
+	0x30,							// 1 bDescriptorType - SUPERSPEED_USB_ENDPOINT_COMPANION
+	0x00, 							// 2 bMaxBurst
+	0x00, 							// 3 bmAttributes
+	0x00, 0x04						// 4 wBytesPerInterval = 0x0080 = 1024 bytes
+#endif
+	///////////////////////////////////////////////////////
+};	
+
+
+15631 vs 15569  	
+Latency=62	
+Deviation = 12.6	
+Average = 68.93
+
+58301 vs 58254  	
+Latency=47	
+Deviation = 12.1	
+Average = 60.33
+
+---------------------------------------------------------------------
+## 2021/02/01 (MO)
+
+BU113 usb_descriptor_ITE.h@1927/usb_cfgDesc_1N1Y1R[]
+
+	0x1E, 							// 0 bLength = 30 bytes
+	0x24, 							// 1 bDescriptorType - Class-specific Interface
+	0x05,							// 2 bDescriptorSubType1 - VS_FRAME_UNCOMPRESSED
+	0x02,							// 3 bFrameIndex
+	0x02,							// 4 bmCapabilities
+	0xD0, 0x02,						// 5 wWidth = 0x02D0 = 720
+	0x40, 0x02,						// 7 wHeight = 0x0240 = 576
+	0x00, 0x70, 0x6A, 0x07,			// 9 dwMinBitRate
+	0x00, 0xE0, 0xD4, 0x0E,			// 13 dwMaxBitRate
+	0x00, 0x7E, 0x09, 0x00,			// 17 dwMaxVideoFrameBufferSize = 0x00097E00 = 622080 = 720 * 576 * 1.5
+	0x40, 0x0D, 0x03, 0x00,			// 21 dwDefaultFrameInterval = 0x00030D40 = 200000
+	0x01, 							// 25 bFrameIntervalType
+	0x40, 0x0D, 0x03, 0x00, 		// 26 dwFrameInterval(1) = 200000 = 1 / 50 * 10^7
+
+
+錄製10個檔案，用Mediainfo查看檔案資訊均為fps30。
+
+AP Version:Recentral Express v1.2.44
+FW Vision: 0.0.0.11
+OS Version: MAC 11.1
+Platform: Macbook Pro (2020)
+
+---------------------------------------------------------------------
+## 2021/02/01 (MO)
+
+FW version 0.0.0.10/0.0.0.11 省去"video穩定後會順手reset已經穩定的audio"，會導致相容性問題。
+
+複製步驟如下：
+
+使用另一台電腦的繪圖卡的HDMI OUT當作BU113的輸入
+用POTPLAYER播放影片
+操作POTPLAYER在全屏模式、視窗模式間切換，此時可見繪圖卡的HDMI OUT會暫時斷訊。恢復訊號後，擷取HDMI會有波波聲
+
+註：同一台電腦使用延伸桌面當作BU113的輸入，沒有類似問題
+
+ 
+
+
+
+
+
+
+---------------------------------------------------------------------
 ## 2021/01/29 (FR)
 
 USB Protocol Suite v8.50.3675
@@ -1129,7 +1636,7 @@ Video Demystified: A Handbook for the Digital Engineer, 5th Edition (May 14, 200
 
 3840x2160P60 HDR	TIMING:721;PATTERN:1020 [o]
 3840x2160P59.94 HDR	
-3840x2160P60	TIMING:721;PATTERN:201 [with QD908v2]
+3840x2160P60	TIMING:721;PATTERN:201 [with QD980v2]
 3840x2160P59.94	TIMING:721 [o]
 3840x2160P30	TIMING:687 [o]
 3840x2160P29.97	TIMING:686 [o]
@@ -1150,7 +1657,7 @@ Video Demystified: A Handbook for the Digital Engineer, 5th Edition (May 14, 200
 
 1280x720P60		TIMING:608;PATTERN:201 [o]
 1280x720P59.94	TIMING:607;PATTERN:201 [o]
-1280x720P50
+1280x720P50	TIMING:635
 
 720x576P50		TIMING:633 [o]
 
