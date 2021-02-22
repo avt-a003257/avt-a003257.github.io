@@ -1,5 +1,69 @@
 # JOURNAL
 
+
+H470 AORUS PRO AX PORT#5 36
+X470 GAMING PRO (MS-7B79) PORT#8 05
+Z390 DESIGNARE-CF PORT#5 01
+Z270 GAMING PRO CARBON (MS-7A63) PORT#3 16
+Z170X-Designare-CF PORT#5 06
+---------------------------------------------------------------------
+## 02-20 (SA)
+
+BU113 BurnIn 測試 (02/20)
+
+開始日期：2021/02/19
+
+BurnIn測試環境：
+PC測試程式使用新版
+BU113韌體版本 0.0.0.2
+PC硬體選用上次測試PASS用過的主機：
+X470 GAMING PRO (MS-7B79)
+Z270 GAMING PRO CARBON (MS-7A63)
+H470 AORUS PRO AX
+ROG STRIX B550-E GAMING
+
+BU113硬體選用上次測試PASS用過的板子：
+外殼編號 板子序號
+A109 (51003336000 05)
+A115 (51003336000 16)
+A116 (51003336000 01)
+A126 (51003336000 06)
+
+
+X470, Z70兩台零 Fail，目前正在測Cold boot
+
+H470 在 Cold boot 失敗，昨天嘗試兩次後，下午移出燒機室再測試並擷取log。
+H470 在 Cold boot 失敗的原因是，PC測試程式詢問BU113，BU113回報偵測不到HDMI訊號。
+到目前為止，coldboot 已執行456次，零Fail。與BurnIn的差異，為不使用安博盒子+splitter，使用千尋盒子取代。其餘相同。
+
+B550 在 Cold boot 失敗的原因同 H470。
+
+
+Skype 8以後，架構改為server/client，網路上找不到Skype會把error message存在何處。
+https://answers.microsoft.com/en-us/skype/forum/all/fail-to-transmit-video-with-a-uvc-capture-device/dba59de4-4755-4151-8158-4a571e7c1dc0
+
+https://answers.microsoft.com/en-us/skype/forum/sk_in-sk_prev/where-and-how-to-read-debug-message-of-skype/d64932b4-09fe-4c92-aa59-24163286a5b0?tm=1613803862918
+
+
+---------------------------------------------------------------------
+## 02-19 (FR)
+
+更新燒機
+
+A109                51003336000 05
+A115                51003336000 16
+A116                51003336000 01
+A126                51003336000 06
+
+重跑以上四片, FW退回之前已跑過PASS的0.0.0.2
+PC測試程式有更新
+
+
+
+
+
+
+
 ---------------------------------------------------------------------
 ## 02-17 (WE)
 
