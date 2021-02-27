@@ -1,11 +1,30 @@
 # JOURNAL
 
+視窗管理器（window manager）
+
+
+uDWNbkGS4a2aqQi
+pUYbJYT56ztKwqV
+
+
+USB-IF Compliance Program
+
+百佳泰為USB-IF正式授權的USB-IF測試認證實驗室
+
+
+
+
+Z270 在 Warm boot 測試失敗，原因裝置不見，測試失敗297次(第704次起到第1000次)，其餘成功。
+
 
 H470 AORUS PRO AX PORT#5 36
 X470 GAMING PRO (MS-7B79) PORT#8 05
 Z390 DESIGNARE-CF PORT#5 01
 Z270 GAMING PRO CARBON (MS-7A63) PORT#3 16
 Z170X-Designare-CF PORT#5 06
+
+
+
 ---------------------------------------------------------------------
 ## 02-20 (SA)
 
