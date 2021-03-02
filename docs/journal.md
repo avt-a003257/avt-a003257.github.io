@@ -1,5 +1,35 @@
 # JOURNAL
 
+---------------------------------------------------------------------
+## 03-02 (TU)
+
+
+https://forum.qt.io/topic/121614/qt5-based-linux-window-manager
+
+An existing Linux Window Manager written in QT5
+
+
+
+Looked at the KWin source. Although much more sophisticated than what we need, it does show clear examples of handling the XCB events. Also, since the repository is online, we could get an older version that used QT4, so it clearly shows what is needed do the port.
+
+Thanks for the pointer.
+
+
+LXQt is a desktop environment. LXQt does not provide a window manager,
+
+驗證主要確認reset IC 是否有效
+
+Warm boot (BU113-A126) 在燒機室測試到第12次裝置消失, 懷疑該Type-C connector 是否接觸不良, 目前繼續測試中
+
+3. 另一台cold boot(Z270)測試到2百多次時發生裝置消失, 但硬體確認該device並無reset, 懷疑PC並無斷電, 所以reset IC未作用, 將把剩下的次數測完
+
+https://github.com/KDE/kwin
+https://github.com/KDE/kwin.git
+
+https://www.media.mit.edu/wearables/mithril/anduin/window_manager.html
+
+---------------------------------------------------------------------
+
 視窗管理器（window manager）
 
 
