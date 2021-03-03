@@ -1,6 +1,29 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 03-03 (WE)
+
+
+
+https://wiki.qt.io/Qt_for_Embedded_Linux
+https://wiki.qt.io/Building_Qt_for_Embedded_Linux
+build Qt twice 
+
+閱讀他人的程式碼
+(1) 讀懂程式碼，使心法皆為我所用 https://www.ithome.com.tw/node/47717
+視閱讀他人所寫成的程式碼為畏途，關鍵原因在心裡一種不自覺的恐懼感，深怕被迫去碰觸其他人所寫的程式碼。是來自於人類內心深處對於陌生事物的原始恐懼。
+三種程度：一、了解，二、修改、擴充，三、抽取、提煉。
+閱讀程式碼的重點，不在於讀完每一行程式碼，而是在於有效率地透過探索及閱讀，從而了解系統的架構及行為模式。以便在你需要了解任何片段的細節實作時，能夠很快在腦上對映到具體的程式碼位置，直到那一刻，才是細讀的時機。
+
+(2) 摸清架構，便可輕鬆掌握全貌 https://www.ithome.com.tw/node/47828
+(3) 優質工具在手，讀懂程式非難事 https://www.ithome.com.tw/node/47895
+(4) 望文生義，進而推敲組件的作用 https://www.ithome.com.tw/node/48058
+(5) 找到程式入口，再由上而下抽絲剝繭 https://www.ithome.com.tw/node/48168
+(6) 閱讀的樂趣：透過程式碼認識作者 https://www.ithome.com.tw/node/48272
+
+https://blog.longwin.com.tw/2009/05/paper-how-to-read-program-source-code-2009/
+
+---------------------------------------------------------------------
 ## 03-02 (TU)
 
 
