@@ -1,6 +1,40 @@
 # JOURNAL
 
 ---------------------------------------------------------------------
+## 03-05 (FR)
+S/N: 1 35 31 30 30 33 33 33 36 30 30 30 32 37
+
+
+---------------------------------------------------------------------
+## 03-04 (TH)
+
+[03-04 13:06:53.562] --- init_database_thread ---
+[03-04 13:06:53.584] mstudio_hilite_pop@211 top directory/focus:0
+[03-04 13:06:53.584] mstudio_imageex1_onkeydown@859 P2. hilite row/cell 0
+[03-04 13:06:53.584] set_focus_by_rownum@322 + 0->0
+[03-04 13:06:53.584] set_focus_by_rownum@331 rowcnt:1
+[03-04 13:06:53.584] set_focus_by_rownum@362 Unhilite row:0, hilite:0, type:2, buf:20210304-130353-H264-00.mp4
+[03-04 13:06:53.584] set_groupbox2_label_by_type@246 + type:2
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:2, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:3, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:4, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:5, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:6, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:7, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:8, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:9, Total item:1
+, enoError=1
+<@ListBox.cpp,SetIsCellContent:2065.> [ListBox], +++++++++ m_topItem:0, m_startItem:2, m_endItem:0, Item:10, Total item:1
+, enoError=1
+
+---------------------------------------------------------------------
 ## 03-03 (WE)
 
 
