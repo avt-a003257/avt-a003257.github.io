@@ -1,5 +1,55 @@
 # JOURNAL
 
+
+BU113_v1.0.2.0
+
+
+Analog vs. Digital
+Video Data
+Digital Video
+Video Timing
+Video Resolution
+Standard-Definition
+Enhanced-Definition
+High-Definition
+Audio and Video Compression
+Application Block Diagrams
+DVD Players
+Digital Media Adapters
+Digital Television Set-Top Boxes
+
+
+Chapter 3
+Color Spaces  15
+RGB Color Space 
+sRGB
+scRGB
+YUV Color Space
+YIQ Color Space
+YCbCr Color Space
+RGB-YCbCr Equations: SDTV
+RGB-YCbCr Equations: HDTV 
+4:4:4 YCbCr Format
+4:2:2 YCbCr Format
+4:1:1 YCbCr Format
+4:2:0 YCbCr Format
+xvYCC Color Space
+PhotoYCC Color Space
+HSI, HLS, and HSV Color Spaces7
+Chromaticity Diagram
+Non-RGB Color Space Considerations
+Gamma Correction
+Constant Luminance Problem
+References
+
+
+
+---------------------------------------------------------------------
+## 03-08 (MO)
+uint8_t set_ApFlashRW;
+uint8_t g_bIsInitNorFlash;
+
+
 ---------------------------------------------------------------------
 ## 03-05 (FR)
 S/N: 1 35 31 30 30 33 33 33 36 30 30 30 32 37
@@ -50,7 +100,14 @@ build Qt twice
 閱讀程式碼的重點，不在於讀完每一行程式碼，而是在於有效率地透過探索及閱讀，從而了解系統的架構及行為模式。以便在你需要了解任何片段的細節實作時，能夠很快在腦上對映到具體的程式碼位置，直到那一刻，才是細讀的時機。
 
 (2) 摸清架構，便可輕鬆掌握全貌 https://www.ithome.com.tw/node/47828
+重點放在：要了解一個系統，最好是採取由上至下的方式。先試著捕捉系統架構性的觀念，不要過早鑽進細節，因為那通常對於你了解全貌，沒有多大的幫助。閱讀程式碼不需要從第一行讀起，我們的目的並不是在於讀遍每一段程式碼。
+
+想要讀懂別人程式碼的根本基礎，便是了解對方所用的程式語言及命名慣例。
+
 (3) 優質工具在手，讀懂程式非難事 https://www.ithome.com.tw/node/47895
+基本工具 grep, gtags, htags
+
+
 (4) 望文生義，進而推敲組件的作用 https://www.ithome.com.tw/node/48058
 (5) 找到程式入口，再由上而下抽絲剝繭 https://www.ithome.com.tw/node/48168
 (6) 閱讀的樂趣：透過程式碼認識作者 https://www.ithome.com.tw/node/48272
