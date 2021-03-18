@@ -1,6 +1,35 @@
 # JOURNAL
 
 
+## 03-18
+
+預備兩顆U盤，A顆只切割一塊，格式化為NTFS，B顆切割為兩塊，第一塊格式化為FAT32，第二塊格式化為EXFAT。
+按出 Main Menu
+1. 插入A顆
+2. "Checking disk..." 檢查修復
+3. "Select storage destination" 設定一個目錄
+4. "Current Storage Destination" 選好目錄
+5. 按 F1 Save 儲存
+6. 錄一個檔案
+7. 退出A顆、插入B顆，重複 #2~#5
+8. 插回A顆
+9. "Checking disk..." 檢查修復
+10. 在"Select storage destination" 按"Close"不設定目錄
+11. 看到"Setting Complete"按OK關閉。此時顯示 USB Disk Partition 1/Recording/ 正確，因為這是兩塊中唯一認識的一塊
+12. 按Media Studio則發現剛才A顆錄的一個檔案不見，Media Studio顯示"No recordings or snapshots found"
+
+兩顆U盤，切割為MBR、GPT都有類似問題
+
+---------------------------------------------------------------------
+## 03-15 (MO)
+
+---------------------------------------------------------------------
+## 03-12 (FR)
+
+sdk_v1.4.2.2_10312
+ITE SDK 1.4.2.2 (release 2021/03/12)
+ 
+
 BU113_v1.0.2.0
 
 
