@@ -1,5 +1,6 @@
 # JOURNAL
 
+
 普天下歡慶
 
 https://youtu.be/acw1P5vONYI
@@ -148,6 +149,98 @@ https://youtu.be/_x5XQCEsQiw
 
 
 
+=======
+## 03/26
+
+1. BU113藍燈恆亮，裝置管理員顯示正常
+2. LOG顯示第961次測試硬體板子reset重開。結果超過測試程式預計的時間，故判為timeout失敗
+
+
+
+測試版本1.10.3.0加入ITE Alan建議，在USB Superspeed mode時，reset 偵測U2的計數。
+
+
+
+
+在M1上使用RECentral 1.2.38測試，也可以擷取4KP@60為4KP@30。
+
+
+
+
+
+--------------------------------------------------------------------------
+
+
+
+1. BU113紅燈恆亮，video狀態沒進入stable。此時開RECentral也看不到畫面。插拔HDMI可見韌體仍能偵測HOT PLUG，但VIDEO始終無法進入stable。
+2. 測試程式進入預設設定USB輸出為1080P60。並判定為framerate過低。
+
+"03/25
+1. BU113閃紅燈，LOG顯示BU113自認接上U2 port
+2. 測試程式找不到裝置、但裝置管理員顯示有裝置"
+"03/25
+1. 測試程式期待USB輸出4KP@30，但BU113設定USB輸出為1080P@60，故判斷為framerate過低"
+
+
+BU113-74 frame drop, frame duplicate 改善。我只完成了1080P60測試、沒來得及測完，這一版SDK改善了，請試試看。
+BU113-72 [WIN]720P60來源，錄影檢查檔案有破圖或上方橫條的情況。這一版SDK改善了frame drop, frame duplicate。破圖應改也得到改善。我還沒來得及驗證，。
+BU113-216 長時間Preview畫面頓挫。我最多只測了13小時。頓挫原因可能來自累積的 frame drop, frame duplicate，這一版SDK改善了，請試試看。
+BU113-199 Record頓挫。Cindy說頓挫原因來自累積的 frame drop, frame duplicate，這一版SDK改善了，請試試看。
+BU113-140 interlace輸出缺線，請您評估這一版效果如何。
+
+
+
+
+
+printf("[%s@%d] vic:%u, bad fps %u\n", __func__, __LINE__, g_uvc_hdmi_info[0].vic, *frameRate);
+
+
+
+
+
+
+
+
+g_uvc_hdmi_info[0].vic
+
+int avm_get_framerate_by_vic(const unsigned char vic, unsigned *framerate)
+{
+	int retval = -1;
+	int i, sz = sizeof(g_res_hdmi) / sizeof(AVM_HDMI_TIMING_TABLE_OBJ);
+
+	for (i = 1; i < sz; ++i)
+	{
+		if (g_res_hdmi[i].vic == vic)
+		{
+			if (framerate) *framerate = g_res_hdmi[i].frame;
+			retval = 0;
+			break;
+		}
+	}
+
+	return retval;
+}
+
+ 801             /* get MAC ADDRESS */
+ 802             memcpy(thiz->bus->cmdbuf, "fw_printenv -f", LEN_CMDBUF);
+ 803             rs485_do_command(thiz->bus, buf, LEN_CMDBUF);
+ 804             pch = strstr(buf, "ethaddr=");
+ 805             pch += strlen("ethaddr=");
+ 806             strncpy(buf2, pch, LEN_CMDBUF);
+
+
+[rs485] vendor=hisilicon
+
+[rs485] soc=hi3516av300
+
+[rs485] bootvalid=1
+
+[rs485] bootindex=0
+
+[rs485] ethaddr=00:18:1a:f2:64:c1
+
+[03-21 11:28:44.056] mfr_do_command@805 len:18,pch:00:18:1a:f2:64:c1
+[03-21 11:28:44.057] mfr_do_command@806 buf2:[mfrtest] dbg: mfr_do_command 00:00:00:00:00:00
 
 ## 03-18
 
