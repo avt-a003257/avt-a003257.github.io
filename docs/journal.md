@@ -1,5 +1,3871 @@
 # JOURNAL
 
+仍有機率可以看見老問題
+右側綠線 (BU113-245)
+Video state 卡在 update，RECentral沒有畫面、聲音，LED紅色恆亮 (BU113-284)
+
+
+健忘失神腦當機，你腦霧了嗎？：腦科醫師教你33個關鍵自救，提升專注、記憶、思考三大腦原力，大腦重置、預防失智
+
+作者： 鄭淳予  
+出版社：三采
+
+　席捲全球數百萬人的文明病，
+　　腦霧，是失智的警訊！
+
+ 
+　　8~80歲都要小心，
+　　只要三分鐘，即刻自我檢測腦霧指數，
+　　腦神經專家將教你大腦自救，擊退各種擾人狀況：
+　　思考混沌、失眠多夢、注意力渙散、頭昏頭重、身心倦怠、痠痛緊繃......
+ 
+　　請注意！
+ 
+　　以下狀況超過3個就要小心有「腦霧現象」
+　　□ 出門常常忘記帶鑰匙、手機、錢包？
+　　□ 無法集中精神做該做的事？   
+　　□ 有時會忘記到底刷牙了沒？
+　　□ 日常生活變得提不起勁，興致缺缺？
+　　□ 打開電腦卻忘記要查甚麼？
+　　□ 很難清楚的溝通及表達？
+　　□ 剛剛才講完的話，轉頭就忘？
+
+　　*何謂腦霧：是「大腦三原力」產生失調、退化的症狀表現。也是大腦如同處在混沌的濃霧之中，沒有辦法清楚的思考，就算我們試圖集中精神，使盡全力，但由於身處濃霧當中，感覺心有餘而力不足，搞不清接下來該往哪裡去。
+
+　　*人人都需要「大腦三原力」：好的專注力、記憶力和思考理解力，是我們腦神經系統健康運作下，自然會產生的三種扎實基本能力，能夠幫助我們進行感知、覺察、推理、判斷和決策，是我們想要平順生活，和追求任何夢想的一切根本和基石。
+
+　　腦霧會失能?! 這不是老人專屬現象，8-80 歲都要小心
+ 
+　　情緒、睡眠、腸道、慢性疼痛，是產生腦霧的重要因素，且環環相扣，
+　　尤其現代人工作、生活忙碌，經常被3C產品綁架，而有健忘、恍神、記性不佳的問題，
+　　像是忘記帶鑰匙、剛講過的話轉頭就忘、遇到熟人名字一時叫不出來，或是常常覺得頭重腳輕，身體很疲勞，
+　　當這些狀況已經開始影響你的工作或生活時，你可能正有腦霧現象！它不是老年癡呆症，卻讓你嚴重失能！
+ 
+　　腦霧不是病，藉由腦神經科醫師臨床經驗，提供從觀念及正確生活習慣養成。
+　　本書將從認識腦霧現象開始，從睡眠、舒緩疼痛、情緒正念引導、正確飲食、舒腦按摩、維持良好社交關係等生活面向著手，
+　　一步步改善令人困擾的腦霧問題，喚醒大腦三原力 (Brain Fog Awakens)！
+ 
+　　*關於睡眠：分享睡眠正確觀念與重要性，還教大家如何睡好覺的方法與姿勢。
+　　*關於疼痛：慢性疼痛是產生腦霧的原因，藉由舒腦按摩與生活中的正確姿勢調整建議，幫助減輕疼痛的不適。
+　　*關於情緒腸道：情緒與腸道以及腦霧息息相關，醫師教你用呼吸與冥想的音頻導引方式，以正念緩解情緒問題。
+　　*關於飲食：分享最正確卻最簡單的飲食重點，幫助大家吃得健康，改善身體狀態。
+　　*關於社交關係：不可忽視社交關係的重要性，藉由寂寞指數檢測，教你如何開啟社交腦。
+
+腦霧修復：3週之內，喚回你的注意力、記憶力與喜悅。有健忘、失神.....等症狀的人，特別適用。
+
+20210504_BU113_Sink 1.4_FW V1.0.4.10_AP v4.7.10.1_A125_980 G3.htm
+20210504_BU113_Sink 2.1_FW V1.0.4.10_AP v4.7.10.1_A125_980.htm
+20210504_BU113_Sink 2.1_FW V1.0.4.10_AP v4.7.10.1_A125_980 G3.htm
+20210504_BU113_Sink_EDID_FW V1.0.4.10_AP v4.7.10.1_A125_980 G3.htm
+
+20210504_BU113_Sink 1.4_FW V1.0.4.10_AP v4.7.10.1_A128_980 G3.htm
+20210504_BU113_Sink 2.1_FW V1.0.4.10_AP v4.7.10.1_A128_980.htm
+20210504_BU113_Sink 2.1_FW V1.0.4.10_AP v4.7.10.1_A128_980 G3.htm
+20210504_BU113_Sink_EDID_FW V1.0.4.10_AP v4.7.10.1_A128_980 G3.htm
+
+https://drive.google.com/file/d/11Ieg0qPIiz6hPAAMbzF9AfKoNu5GlFqk/view?usp=sharing
+
+
+PS4 型號 CUH-1007A
+
+Dear Alan,
+
+我們比較了圓剛的PS4、Ivan家裡的PS4，擷取了LOG，也比較了CAMLINK的效能。以下是細節。
+
+測試步驟：
+1. HDMI、USB都插好，應用軟體開起來，確認影像聲音都穩定出現在PC。
+2. 插拔HDMI訊號源，檢查影像聲音是否正常，有無無聲音或無影像的問題。
+
+比較一、比較用兩台PS4，分別對公板執行上述測試步驟。
+圓剛的PS4 vs. Ivan家裡的PS4，機體型號同為 CUH-1007A (https://www.playstation.com/zh-hant-tw/support/hardware/ps4-find-serial-and-model-numbers/#CUH-10xx) 
+Ivan家裡的PS4 系統軟件：8.50
+圓剛的PS4 系統軟件：8.00
+
+DUT：公板 (68051+9325) with SDK 1.4.2.2 打開EQ_DEBUG_PRINTF
+
+測試結果：
+圓剛的PS4，插拔HDMI 10次，有3次影音異常 ite-0504-1028.log
+Ivan Chang家的PS4，插拔HDMI 20次，均無異常 ite-0504-1101.log
+
+比較二、用圓剛的PS4當作HDMI訊號源，對公板與CAM LINK 4K，分別執行上述測試步驟。
+
+DUT：公板 (68051+9325) with SDK 1.4.2.2 打開EQ_DEBUG_PRINTF
+DUT：CAM LINK 4K
+
+測試結果：
+公板 (68051+9325) with SDK 1.4.2.2，插拔HDMI 10次，有3次影音異常 ite-0504-1028.log
+CAM LINK 4K，插拔HDMI 10次，除了開頭短暫時間顏色異常，其餘影音正常。 IMG_0875.MOV (https://drive.google.com/file/d/11Ieg0qPIiz6hPAAMbzF9AfKoNu5GlFqk/view?usp=sharing)
+
+
+
+
+
+圓剛有一台PS4的測試機，我們把它當作HDMI SOURCE，
+用9325+68051公板 (沒有6663、沒有MCU) SDK 1.4.2.2來測試，
+可以觀察到68051花了格外長的時間才穩定下來，
+而且有的時候，明明LOG顯示AUDIO穩定了，OBS卻沒有聲音。
+
+是否可以請您分析，幫我們解釋一下。
+
+實驗器材：
+1. 9325+68051公板 SDK 1.4.2.2
+2. PS4的測試機
+
+實驗步驟：
+1. 插拔HDMI
+
+LOG:
+1~1930行 第一次上電。先插好HDMI、再插USB。可以看到[2021-04-30 20:55:53.790]到[2021-04-30 20:56:08.485]這15秒鐘之久，68051都處於不穩定的狀態
+
+1931~3734行 插拔HDMI[2021-04-30 20:57:57.327]到[2021-04-30 20:58:30.266]花了33秒video才穩定下來，LOG顯示AUDIO穩定了，但是OBS沒有聲音。
+
+3737~5362行 插拔HDMI[2021-04-30 20:59:40.548]到[2021-04-30 21:00:07.930]花了27秒video才穩定下來，LOG顯示AUDIO穩定了，但是OBS沒有聲音。
+
+//////////////////////////////0430///////////////////////////////////
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1080
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1080
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1080
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,147014)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(146553,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1077
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 5994
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Mode Changed #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  28
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1080
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1080
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1080
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,148414)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x00
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(146553,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 146.096MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(146096,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 146.096MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 5994
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(148414,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 146.096MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(146096,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 146.096MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 0)
+No Sync!!!
+unrecognizable video resolution
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+AudioFsCal fail !!!
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# Video Mode Changed #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 61 Hz,(147014,2200,1082)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1077
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 62 Hz,(148414,2200,1082)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1077
+VTotal = 1082
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 1
+VBackPorch = 0
+FrameRate = 61
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1077
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1077
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1077
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,148414)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  28
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol NOT Lock #
+# CH2 Symbol NOT Lock #
+# CH0 Symbol NOT Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  28
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 62 Hz,(148414,2200,1082)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1077
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 62 Hz,(148414,2200,1082)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1919
+HTotal = 2200
+VActive = 1077
+VTotal = 1082
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 149
+VFrontPorch = 4
+VSyncWidth = 1
+VBackPorch = 0
+FrameRate = 62
+DetailedFrameRate = 5994
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1919
+
+
+
+
+Qoo1 1077
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1919
+HActive 720 1919
+HActive 1280 1919
+HActive 1920 1919
+HActive 1440 1919
+HActive 1920 1919
+HActive 720 1919
+HActive 1440 1919
+HActive 1280 1919
+HActive 1920 1919
+HActive 1920 1919
+HActive 2560 1919
+HActive 3840 1919
+HActive 3840 1919
+HActive 3840 1919
+<IT680x_querystd> vstd_idz = 255
+TMDSGet@671 : it680x_vstd_idx=255
+TMDSGet@686 : m_u32TMDSCLK=222621
+AudioFsCal fail !!!
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x4D
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x0F
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol NOT Lock #
+# CH2 Symbol NOT Lock #
+# CH1 Symbol NOT Lock #
+# CH0 Symbol NOT Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+RefSUM = 10
+RCLKVALUE = 18
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Mode Changed #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(146553,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 147.014MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(147014,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 147.014MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
++++++++++++  iTE6805_Set_AVMute -> Off
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1080
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1080
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1080
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,147014)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+audio ready
+Qoo vic 16->16 UVC_HDMI_VSTATE_ON
+detail frameRate 5994->5994
+--------------------------HDMI----------------------------
+HDMI :  width = 1920, height = 1080, Frame Rate = 60
+USB :   width = 1920, height = 1080, Frame Rate = 60
+Capture Input : YUV444DP
+Capture0->DDR->USB
+Output format : NV12
+frcMode CAPTURE_FRC_MODE_1
+Capture 0 Flow Control Enable
+------------------------------------------------------
+Video State : Check HDMI->Update Video
+PCLK = 146096
+Height = 1920, Width = 1080
+Color Depth 12 bit
+FrameRate = 60
+ScanMode = Progressive
+Not HDR
+Not HDCP
+SampleRate = 48000
+Input ColorFormat : RGB444
+SDR Mode
+Dual Pixel mode
+Colorimetry : Unknown
+AVMUTE OFF
+IT68051 STATEV = 4
+IT68051 STATEA = 3
+VIC = 16
+RGB Quantization Full
+YUV Quantization Limit
+ExtendColorimetry = 0, HDR type 0, Have DRM 0
+avm_led_set_state@126 : (9,2,2)
+Video State(0) : Update Video->Stable
+Clear_HDMI_RingBuffer
+IT68051 SampleRate = 3
+Audio HDMI State : Sync->Stable
+gLedTask@35 : avm_led_state(9,2,2)
+------------------Interrupt-------------------
+video_int_status = 7
+audio_int_status = 128
+----------------------------------------------
+# Port 0 Input Clock Change Detect #
+# Clock NOT Stable      #
+# Port 0 5V state change INT #
+iTE6805_Set_HPD_Ctrl PORT0_HPD = 0
+VidState change to STATEV_Unplug state
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+video state chg 5552
+Video State : Stable->Prepare Black
+Audio HDMI State : Stable->Sync(3023)
+Video State : Prepare Black->Check HDMI
+avm_led_set_state@126 : (2,9,9)
+gLedTask@35 : avm_led_state(2,9,9)
+# Port 0 5V state change INT #
+VidState change to STATEV_WaitSync state
+iTE6805_Set_HPD_Ctrl PORT0_HPD = 1
+# Port 0 Deskew Error #  deskewerrcnt=1
+# Port 0 Input Clock Change Detect #
+# Clock Stable          #
+# Port 0 Rx CKOn Detect #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# New SPD PKT Received #
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(147014,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 5994
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x00
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x00
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x0D
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x4F
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x0D
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x4F
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x00
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Mode Changed #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(148414,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(146096,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
++++++++++++  iTE6805_Set_AVMute -> Off
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1080
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1080
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1080
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,148414)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+audio ready
+Qoo vic 16->16 UVC_HDMI_VSTATE_ON
+detail frameRate 5994->5994
+--------------------------HDMI----------------------------
+HDMI :  width = 1920, height = 1080, Frame Rate = 60
+USB :   width = 1920, height = 1080, Frame Rate = 60
+PCLK = 146096
+Height = 1920, Width = 1080
+Color Depth 12 bit
+FrameRate = 60
+ScanMode = Progressive
+Not HDR
+Not HDCP
+SampleRate = 48000
+Input ColorFormat : RGB444
+SDR Mode
+Capture Input : YUV444DP
+Capture0->DDR->USB
+Output format : NV12
+frcMode CAPTURE_FRC_MODE_1
+Capture 0 Flow Control Enable
+------------------------------------------------------
+Video State : Check HDMI->Update Video
+Dual Pixel mode
+Colorimetry : Unknown
+AVMUTE OFF
+IT68051 STATEV = 4
+IT68051 STATEA = 3
+VIC = 16
+RGB Quantization Full
+YUV Quantization Limit
+ExtendColorimetry = 0, HDR type 0, Have DRM 0
+avm_led_set_state@126 : (9,2,2)
+Video State(0) : Update Video->Stable
+Clear_HDMI_RingBuffer
+IT68051 SampleRate = 3
+Audio HDMI State : Sync->Stable
+gLedTask@35 : avm_led_state(9,2,2)
+------------------Interrupt-------------------
+video_int_status = 7
+audio_int_status = 128
+----------------------------------------------
+# Port 0 Input Clock Change Detect #
+# Clock NOT Stable      #
+# Port 0 5V state change INT #
+iTE6805_Set_HPD_Ctrl PORT0_HPD = 0
+VidState change to STATEV_Unplug state
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+video state chg 5552
+Video State : Stable->Prepare Black
+Audio HDMI State : Stable->Sync(3023)
+Video State : Prepare Black->Check HDMI
+avm_led_set_state@126 : (2,9,9)
+gLedTask@35 : avm_led_state(2,9,9)
+# Port 0 5V state change INT #
+VidState change to STATEV_WaitSync state
+iTE6805_Set_HPD_Ctrl PORT0_HPD = 1
+# Port 0 Deskew Error #  deskewerrcnt=1
+# Port 0 Input Clock Change Detect #
+# Clock Stable          #
+# Port 0 Rx CKOn Detect #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+VidState change to STATEV_CheckSync state
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# New SPD PKT Received #
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# New Audio PKT Received #
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 61 Hz,(148414,2200,1101)
+iTE68051_Video_Output_Setting called
+PCLK = 147.945MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1053
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 61 Hz,(147945,2200,1101)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 147.945MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1056
+VTotal = 1101
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 61
+DetailedFrameRate = 5994
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x00
+# New Audio PKT Received #
+# New SPD PKT Received #
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+VidState change to STATEV_CheckSync state
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Mode Changed #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(146096,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1077
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol NOT Lock #
+# CH2 Symbol NOT Lock #
+# CH1 Symbol NOT Lock #
+# CH0 Symbol NOT Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 0)
+IT680x_vstd_get:(1,0)
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+AudioFsCal fail !!!
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# Video Mode Changed #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+# Port 0 Deskew Error #  deskewerrcnt=2
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x4D
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xCF
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(147014,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x00
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 60 Hz,(148414,2200,1122)
+iTE68051_Video_Output_Setting called
+PCLK = 146.553MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(146553,2200,1122)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 146.553MHz
+Flag_IS_YUV420 = 0
+HActive = 1919
+HTotal = 2200
+VActive = 1077
+VTotal = 1122
+HFrontPorch = 89
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 60
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x0D
+# New Audio PKT Received #
+# New SPD PKT Received #
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xCF
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# Video Mode Changed #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(147014,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=0
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# Video Mode Changed #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 212.503MHz
+FrameRate = 59 Hz,(148414,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 146.096MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(146096,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 212.503MHz
+PCLK = 146.096MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 35
+HSyncWidth = 44
+HBackPorch = 201
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# Port 0 Deskew Error #  deskewerrcnt=2
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Mode Changed #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(148414,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 147.478MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(147478,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 147.478MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_WaitSync state
+iTE6805_DATA.STATEA(0) !!!
+AudState change to STATEA_RequestAudio state !!!
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x01
+# Port 0 Deskew Error #  deskewerrcnt=1
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# Video Mode Changed #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# New Audio PKT Received #
+# New SPD PKT Received #
+# New AVI InfoFrame Received #
+AVIDB = 0
+AVIDB = 0
+Flag_VidStable_Done!=TRUE, Save AVI Infoframe to variable.
+AVIDB1 = 0
+prevAVIDB1 = 0
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 59 Hz,(146096,2200,1125)
+iTE68051_Video_Output_Setting called
+PCLK = 148.414MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(148414,2200,1125)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 148.414MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1080
+VTotal = 1125
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 59
+DetailedFrameRate = 0
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+VidState change to STATEV_CheckSync state
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count prevAVIDB = 0x00 !!!
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1080
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1080
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1080
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,148414)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 221.567MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 221567
+sum = 2580812416
+SW caulate SW_Sampling_Frequency = 47
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+# Port 0 Deskew Error #  deskewerrcnt=2
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Video Mode Changed #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x00 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+Current_SCDTCheck_Count AVIDB = 0x00 !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+VidState change to STATEV_VidStable state
+TMDSCLK = 222.622MHz
+FrameRate = 60 Hz,(148414,2200,1122)
+iTE68051_Video_Output_Setting called
+PCLK = 147.014MHz
+iTE6805_Check_4K_Resolution = FALSE!!!
+!!!!!! Set Dual Pixel Mode(2227) !!!!!!
+!! 4K MODE_EvenOdd !!
+---- CSC HDMI mode ----
+AVI Info Frame VIC = 16
+AVI Info Frame Input ColorFormat = 0 - RGB
+AVI Info Frame Colorimetry = 0 - UNKNOW
+AVI Info Frame RGBQuantizationRange = 2 - RGB_RANGE_FULL
+AVI Info Frame YUVQuantizationRange = 0 - YUV_RANGE_LIMIT
+AVI Info Frame ExtendedColorimetry = 0
+US_Output_ColorFormat = 2
+AVIInfoFrame_Input_ColorFormat = 0
+HDMIRX_HEIGHT = 1080
+---- input RGB to output YUV ----
+Input Colorimetry = ITU601; using CSCMtx_RGB2YUV_ITU709_00_255
+--- CSC_TABLE != NULL ---
+--- Using CSC_TABLE = 3 ---
+
+ Input ColorDepth = 12 b
++++++++++++ iTE6805_Set_AVMute -> On
+iTE6805_DATA.STATEA(1) !!!
+AudState change to STATEA_RequestAudio state !!!
+InBPP = 36
+Input Color Mode = RGB444
+FrameRate = 59 Hz,(147014,2200,1122)
+
+
+ -------Video Timing:1-------
+HDMI2 Scramble Disable !!
+HDMI CLK Ratio 1/10  !!
+TMDSCLK = 222.622MHz
+PCLK = 147.014MHz
+Flag_IS_YUV420 = 0
+HActive = 1920
+HTotal = 2200
+VActive = 1077
+VTotal = 1122
+HFrontPorch = 88
+HSyncWidth = 44
+HBackPorch = 148
+VFrontPorch = 4
+VSyncWidth = 5
+VBackPorch = 36
+FrameRate = 60
+DetailedFrameRate = 5994
+ScanMode = Progressive
+VSyncPol = Positive
+HSyncPol = Positive
+Video Output Detect Non-Stable   LVPCLK_HS=1
+
+
+iTE6805_DATA.STATEA(2) !!!
+AudState change to STATEA_WaitForReady state !!!
+# FSM Error  #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# SCDT Change #
+# CD Detect #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
++++++++++++  iTE6805_Set_AVMute -> Off
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0x09
+# FSM Error  #
+# CH2 Symbol lock Rst #
+# CH1 Symbol lock Rst #
+# Symbol Lock State Change #  0x14 =  38
+# Symbol Lock #
+# Audio Auto Mute #
+# Video Mode Changed #
+# SCDT Change #
+# Video Parameters Change #
+# VidParaChange_Sts=Reg1Bh=0x01 Reg1Ah=0xC9
+iTE6805_DATA.STATEA(3) !!!
+
+Audio Format:
+ Audio Sample
+
+AudCh=2Ch AudFs==48K
+AudState change to STATEA_AudioOn state !!!
+AudioFsCal@786
+ u32_N 11648
+ u32_CTS 421875
+TMDSGet@664
+IT680x_vstd_get@634
+(ucPortSel,sys_state_P0)=( 0, 1)
+IT680x_vstd_get:(1,1)
+IT680x_querystd@321
+(ucPortSel,sys_state_P0)=( 0, 1)
+
+
+Qoo 1920
+
+
+
+
+Qoo1 1077
+
+
+
+
+Qoo2 PROG
+
+
+bGetSyncInfoVstd@244
+HActive 640 1920
+HActive 720 1920
+HActive 1280 1920
+HActive 1920 1920
+VActive540 1077
+HActive 1440 1920
+HActive 1920 1920
+VActive1080 1077
+HTotal 2200 2200
+ScanMode1 1
+PCLK (148352,147014)
+i 5, diff 0
+<IT680x_querystd> vstd_idz = 5
+TMDSGet@671 : it680x_vstd_idx=5
+TMDSGet@686 : m_u32TMDSCLK=222528
+DSDAud=0,AudFmt=2,DSDFs=0
+48K
+m_u32TMDSCLK 222527
+it680x_vstd_idx 5 u32PCLKstd 222527 g_InBPC 12 m_u32TMDSCLK 222527 l_u32PCLKstd 222528
+rx_ms->video_freq 5994
+TMDSCLK = 222.622MHz
+N = 11648
+CTS = 421875
+TMDSCLK = 222622
+sum = 2593101056
+SW caulate SW_Sampling_Frequency = 48
+Audio_CH_Status[24:27 - 30:31][bit0~bit5] = 2 ,iTE6805_DATA.Force_Sampling_Frequency 2
+Audio_CH_Status == iTE6805_DATA.Force_Sampling_Frequency reset Audio
+_iTE6805_aud_chg : prevAudioBx_Status=(0x0,0x81) !!!
+audio ready
+Qoo vic 16->16 UVC_HDMI_VSTATE_ON
+detail frameRate 5994->5994
+--------------------------HDMI----------------------------
+HDMI :  width = 1920, height = 1080, Frame Rate = 60
+USB :   width = 1920, height = 1080, Frame Rate = 60
+Capture Input : YUV444DP
+Capture0->DDR->USB
+Output format : NV12
+frcMode CAPTURE_FRC_MODE_1
+Capture 0 Flow Control Enable
+------------------------------------------------------
+Video State : Check HDMI->Update Video
+PCLK = 148414
+Height = 1920, Width = 1080
+Color Depth 12 bit
+FrameRate = 60
+ScanMode = Progressive
+Not HDR
+Not HDCP
+SampleRate = 48000
+Input ColorFormat : RGB444
+SDR Mode
+Dual Pixel mode
+Colorimetry : Unknown
+AVMUTE OFF
+IT68051 STATEV = 4
+IT68051 STATEA = 3
+VIC = 16
+RGB Quantization Full
+YUV Quantization Limit
+ExtendColorimetry = 0, HDR type 0, Have DRM 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio HDMI State : Prepare->Sync
+VS_Interface : VS_PROBE_CONTROL : GET_CUR
+VS_Interface : VS_PROBE_CONTROL : SET_CUR
+VS_Interface : VS_PROBE_CONTROL : GET_CUR
+VS_Interface : VS_PROBE_CONTROL : GET_MAX
+VS_Interface : VS_PROBE_CONTROL : GET_MIN
+VS_Interface : VS_PROBE_CONTROL : GET_CUR
+VS_Interface : VS_PROBE_CONTROL : SET_CUR
+VS_Interface : VS_PROBE_CONTROL : GET_CUR
+VS_Interface : VS_PROBE_CONTROL : GET_MAX
+VS_Interface : VS_PROBE_CONTROL : GET_MIN
+VS_Interface : VS_PROBE_CONTROL : GET_CUR
+VS_Interface : VS_PROBE_CONTROL : SET_CUR
+VS_Interface : VS_PROBE_CONTROL : GET_CUR
+VS_Interface : VS_PROBE_CONTROL : GET_MAX
+VS_Interface : VS_PROBE_CONTROL : GET_MIN
+UX enable MIRROR
+
+  ??? WTF ???
+
+VS_Interface : VS_COMMIT_CONTROL : SET_CUR
+--------------------------------------
+USB Info
+Format index = 1, Frame index = 1, Width = 1920, Height = 1080
+FrameInterval = 0x00028BB1, Frame Rate = 60
+--------------------------------------
+disable EP3 INT
+Video State : -> Prepare MSG
+enable EP3 INT
+Video State : Prepare MSG->Prepare Black
+loadMSG : (BLACK_SCREEN)
+UX enable MIRROR
+
+  ??? WTF ???
+
+Video State : Prepare Black->Check HDMI
+avm_led_set_state@126 : (2,9,23)
+HDMI :  width = 1920, height = 1080, Frame Rate = 60
+USB :   width = 1920, height = 1080, Frame Rate = 60
+Capture Input : YUV444DP
+Capture0->DDR->USB
+Output format : NV12
+frcMode CAPTURE_FRC_MODE_1
+Capture 0 Flow Control Enable
+
+
+
+BU113-242 使用Xbox one X接上HDMI訊號，拔插BU113 device，AP 出現破圖
+Z170A平台加上Xbox one X漏電，FW 1.0.4.6以後已解。請用有reset IC的板子複驗
+
+BU113-267 [win] 輸入 3840x2160 , AP 切換Decode Format NV12/YUY2 會卡住亮紅燈
+過程中RECentral會下兩次指令。第一次是原本的設定：NV12、解析度3840x2160、第二次才是想要設定的：YUY2、解析度1920x1080
+這個問題與RECentral的行為設計相關。第三方軟體不會有類似問題。
+RD自測切換30次不會卡住
+ 
+
+
+
+ 
+
+BU113-272 BU113插拔後，RECentral畫面出現時間過久
+搭配RECentral，有時快小於十秒、慢可能超過15秒，畫面才出現。
+
+
+
+
+
+ 
+
+BU113-232 [WIN] 開關HDR 會導致BU113沒有聲音輸出
+
+ 
+
+BU113-269 在 MSI_MPG B550 GAMING EDGE WIFI 會有綠屏問題
+
+ 
+BU113-190 [Win]使用BU113+Skype於Windows下，執行視訊通話後，接收無畫面。
+BU113-230 [WIN] 切換解析度有機率造成，畫面左右相反
+
+ 
+
+[Mac] PW513和BU113互相干擾 AP Crach
+
+
+在 acer Swift 5 SF514-54T-58EB USB3.1 port3 ap有畫面，但是閃紅燈(降至2.0)
+
+在 MSI Z170A GAMING M5 ASMedia port 會有無法亮燈的問題
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+第一次上電時，我們在_fusb300_grp1_handler令狀態到UVC_VIDEO_STATE_PREPARE_MSG。
+
+	if (g_fusb300_int_grp1 & FUSB300_IGR1_DEV_MODE_CHG_INT)
+	{
+		_fusb300_clear_int(FUSB300_OFFSET_IGR1, FUSB300_IGR1_DEV_MODE_CHG_INT);
+		_fusb300_check_device_mode();
+		//fill descriptor to descriptor table for returned to host by receiving "get descriptor" request
+		switch (g_fusb300_dev_mode)
+		{
+		case FUSB300_DEVICE_MODE_SS_MODE :
+			usleep(15 * 1000);
+			reg2 = ithReadRegA(FUSB300_BASE + FUSB300_OFFSET_MISC);
+			if ((FUSB300_MISC_LTSSM_STATE(reg2) == 2) || (FUSB300_MISC_LTSSM_STATE(reg2) == 3)) //Inactive
+			{
+				printf("0x2328 LTSSM is Inactive\n");
+				_fusb300_set_vbus(0x3FF);
+				_fusb300_set_vbus(0x10);
+			}
+			else
+			{
+				set_descriptor_table(&ss_dev_list, &desc_tbl, 1);
+#if 1 // BU113-240
+				g_fusb300_detect_u20_times = 0;
+#endif
+#if (defined AVT_BU113)
+				if(TRUE == g_uvc_first_boot){
+					g_uvc_video_state = UVC_VIDEO_STATE_PREPARE_MSG;
+					printf("U3 Video State : -> Prepare MSG\n");
+				}
+				printf("U3 Video State : -> avm_led_get_state(%d)\n",avm_led_get_state());
+				g_usb20 = false;
+				//avm_led_set_state(avm_led_get_keep_state());
+				avm_led_set_state(AVM_LED_NORMAL);
+#endif
+			}
+			break;
+
+不然，如果此時AP也沒開，狀態機是不會動的。也無法進行RELINK。
+這樣改，您有沒有任何建議？
+
+
+
+ABT-002152 BU113 bug verify
+AP Version:RECentral 4_v4.7.7.1
+FW Vision:1.0.4.1
+OS Version:Win 10_x64_20H2
+Platform:ASUS Z170-A
+Reproducibility(%):61~80
+
 ## 03/26
 
 1. BU113藍燈恆亮，裝置管理員顯示正常
