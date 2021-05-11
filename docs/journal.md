@@ -1,15 +1,55 @@
 # JOURNAL
 
+https://dbus.freedesktop.org/releases/dbus/dbus-1.12.20.tar.gz
+https://github.com/libexpat/libexpat/releases/download/R_2_3_0/expat-2.3.0.tar.gz
+./configure --host=arm-himix200-linux --prefix=/home/a003257/avt/tmp/0511/install
 
-仍有機率可以看見老問題
-右側綠線 (BU113-245)
-Video state 卡在 update，RECentral沒有畫面、聲音，LED紅色恆亮 (BU113-284)
+./configure --host=arm-himix200-linux --prefix=/home/a003257/avt/tmp/0511/install --with-x=no CFLAGS=-I/home/a003257/avt/tmp/0511/install/include LDFLAGS="-L/home/a003257/avt/tmp/0511/install/lib -L/home/a003257/avt/ER330/osdrv/pub/rootfs_glibc/lib/gstreamer" --disable-selinux --disable-tests
 
 
-健忘失神腦當機，你腦霧了嗎？：腦科醫師教你33個關鍵自救，提升專注、記憶、思考三大腦原力，大腦重置、預防失智
 
-作者： 鄭淳予  
-出版社：三采
+
+正規模式 (canonical mode)	終端設備會處理特殊字元，且會以一次一列的方式將輸入傳給應用程式。例如Linux的shell指令。
+非正規模式	又稱為raw模式。在這種模式中，終端設備不會處理特殊字元，且會以一次一個字元的方式將輸入傳給應用程式。例如在Linux使用vim編輯程式。
+終端設備會處理特殊字元
+Linux RS-232 程式設計
+ER330 廠測與災難性的錯誤
+
+BU113-274 在 acer Swift 5 SF514-54T-58EB USB3.1 port3 ap有畫面，但是閃紅燈(降至2.0)
+BU113-270 在 MSI 14 B11M-033TW 會有隨機黑畫面 & LED燈不亮的問題
+BU113-261 在 ASRock X570 Taichi USB3.1 port 會有黑畫面 & LED燈不亮的問題
+BU113-260 在 MSI_MPG B550 GAMING EDGE WIFI USB3.2 port 會有黑畫面 & LED燈不亮的問題
+BU113-259 在 GA_B550 VISION D USB3.2 port 會有黑畫面 & LED燈不亮的問題
+BU113-258 在 GA_Z170X-Designare USB3.1 port 會有黑畫面 & 亮紅燈的問題
+BU113-240 插上華碩手機，有些樣品板是U3、有的則是U2
+
+
+v1.1.7.3廠測災難性的錯誤
+
+
+
+https://tw.appledaily.com/entertainment/20200717/H4EI6KZ4ZQTPA6FEM72CMG5HYE/
+
+
+v1.1.7.3災難性的錯誤
+
+
+
+
+
+
+健忘失神腦當機，你腦霧了嗎？
+腦科醫師教你33個關鍵自救，提升專注、記憶、思考三大腦原力，大腦重置、預防失智
+
+作者： 鄭淳予  出版社：三采
+
+
+「大腦三原力」：好的專注力、記憶力、和思考理解力
+
+「腦霧」：是「大腦三原力」產生失調、退化的症狀表現。也是大腦如同處在混沌的濃霧之中，沒有辦法清楚的思考，就算我們試圖集中精神，使盡全力，但由於身處濃霧當中，感覺心有餘而力不足，搞不清接下來該往哪裡去。
+
+
+
 
 　席捲全球數百萬人的文明病，
 　　腦霧，是失智的警訊！
@@ -33,7 +73,7 @@ Video state 卡在 update，RECentral沒有畫面、聲音，LED紅色恆亮 (BU
 
 　　*何謂腦霧：是「大腦三原力」產生失調、退化的症狀表現。也是大腦如同處在混沌的濃霧之中，沒有辦法清楚的思考，就算我們試圖集中精神，使盡全力，但由於身處濃霧當中，感覺心有餘而力不足，搞不清接下來該往哪裡去。
 
-　　*人人都需要「大腦三原力」：好的專注力、記憶力和思考理解力，是我們腦神經系統健康運作下，自然會產生的三種扎實基本能力，能夠幫助我們進行感知、覺察、推理、判斷和決策，是我們想要平順生活，和追求任何夢想的一切根本和基石。
+　　*人人都需要「大腦三原力」：好的專注力、記憶力、和思考理解力，是我們腦神經系統健康運作下，自然會產生的三種扎實基本能力，能夠幫助我們進行感知、覺察、推理、判斷和決策，是我們想要平順生活，和追求任何夢想的一切根本和基石。
 
 　　腦霧會失能?! 這不是老人專屬現象，8-80 歲都要小心
  
