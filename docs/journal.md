@@ -1,5 +1,19 @@
 # JOURNAL
 
+Dependencies is a rewrite of the legacy software Dependency Walker which was shipped along Windows SDKs, but whose development stopped around 2006. Dependencies can help Windows developers troubleshooting their dll load dependencies issues.
+https://github.com/lucasg/Dependencies
+
+https://www.microsoft.com/en-GB/download/details.aspx?id=40784
+
+https://www.microsoft.com/zh-TW/download/details.aspx?id=40784
+
+
+S/N: 1 35 32 30 33 37 38 35 36 30 30 30 34 32
+S/N: 1 35 32 30 33 37 38 35 36 30 30 30 34 30
+S/N: 1 35 32 30 33 37 38 35 36 30 30 30 34 34
+S/N: 1 35 32 30 33 37 38 35 36 30 30 30 32 30
+S/N: 1 35 32 30 33 37 38 35 36 30 30 30 34 31
+
 https://dbus.freedesktop.org/releases/dbus/dbus-1.12.20.tar.gz
 https://github.com/libexpat/libexpat/releases/download/R_2_3_0/expat-2.3.0.tar.gz
 ./configure --host=arm-himix200-linux --prefix=/home/a003257/avt/tmp/0511/install
@@ -9,11 +23,7 @@ https://github.com/libexpat/libexpat/releases/download/R_2_3_0/expat-2.3.0.tar.g
 
 
 
-正規模式 (canonical mode)	終端設備會處理特殊字元，且會以一次一列的方式將輸入傳給應用程式。例如Linux的shell指令。
-非正規模式	又稱為raw模式。在這種模式中，終端設備不會處理特殊字元，且會以一次一個字元的方式將輸入傳給應用程式。例如在Linux使用vim編輯程式。
-終端設備會處理特殊字元
-Linux RS-232 程式設計
-ER330 廠測與災難性的錯誤
+
 
 BU113-274 在 acer Swift 5 SF514-54T-58EB USB3.1 port3 ap有畫面，但是閃紅燈(降至2.0)
 BU113-270 在 MSI 14 B11M-033TW 會有隨機黑畫面 & LED燈不亮的問題
